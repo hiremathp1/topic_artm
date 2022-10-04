@@ -1,0 +1,93 @@
+# Check if alive
+GET http://127.0.0.1:8000/
+
+# Submit json file, get wordcloud image
+POST http://127.0.0.1:8000/image/wordcloud?width=300&height=400&method=anygram&limit=20
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/number_system.json
+
+# Submit json file, get wordcloud image 2
+POST http://127.0.0.1:8000/image/wordcloud?width=300&height=400&method=ngram&ngram_size=2
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/number_system.json
+
+# topic list
+POST http://127.0.0.1:8000/topics
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/number_system.json
+
+# Graph
+POST http://127.0.0.1:8000/graph
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/number_system.json
+
+# Graph Image
+POST http://127.0.0.1:8000/image/graph
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/number_system.json
+
+
+# Graph Image
+POST http://127.0.0.1:8000/image/graph
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/Basic Math - Lesson 1 - Complex Numbers.json
+
+POST http://127.0.0.1:8000/image/graph?limit=5&ngram_size=2
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/Basic Math - Lesson 1 - Complex Numbers.json
+
+# Graph Image tree
+POST http://127.0.0.1:8000/image/graph?graph_type=tree
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/Basic Math - Lesson 1 - Complex Numbers.json
+
+# Graph
+POST http://127.0.0.1:8000/graph
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/Basic Math - Lesson 1 - Complex Numbers.json
+
+
+POST http://127.0.0.1:8000/graph?limit=5&ngram_size=2
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/Basic Math - Lesson 1 - Complex Numbers.json
+
+# Command api (background)
+
+# Request
+POST http://127.0.0.1:8000/command/image/graph
+Content-type: application/json
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+< samples/Basic Math - Lesson 1 - Complex Numbers.json
+
+
+:command_id = a4deb283-2876-4f63-a401-7b4353af5319
+
+# Check progress (replace with actual command_id from last request)
+GET http://127.0.0.1:8000/command/progress?command_id=:command_id
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
+
+
+# get result
+GET http://127.0.0.1:8000/command/result?command_id=:command_id
+Authorization: 1dedf8842d7586c7a35fa56f06dc7c8b8e15bf1373363ffffffd65
