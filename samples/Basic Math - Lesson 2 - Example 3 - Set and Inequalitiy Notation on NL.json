@@ -1,0 +1,525 @@
+{
+  "VideoID": {
+    "S": "VID_3197405"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "6"
+          },
+          "start_time": {
+            "N": "0"
+          },
+          "text": {
+            "S": "the next problem . They actually give us just the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "11"
+          },
+          "start_time": {
+            "N": "3"
+          },
+          "text": {
+            "S": "interval notation Want infinity including one for I do the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "15"
+          },
+          "start_time": {
+            "N": "8"
+          },
+          "text": {
+            "S": "others . I always do the number line . So"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "18"
+          },
+          "start_time": {
+            "N": "12"
+          },
+          "text": {
+            "S": "we'll just put one anywhere . Let's let's say right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "23"
+          },
+          "start_time": {
+            "N": "15"
+          },
+          "text": {
+            "S": "there is one . What happens exactly at 1 ?"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "25"
+          },
+          "start_time": {
+            "N": "20"
+          },
+          "text": {
+            "S": "Well that's a square bracket . So according to our"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "30"
+          },
+          "start_time": {
+            "N": "22"
+          },
+          "text": {
+            "S": "little table here , square brackets . Get hello dot"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "35"
+          },
+          "start_time": {
+            "N": "28"
+          },
+          "text": {
+            "S": ". So hopefully nice , confident looking . It's all"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "38"
+          },
+          "start_time": {
+            "N": "32"
+          },
+          "text": {
+            "S": "about right there . And then what happens as well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "41"
+          },
+          "start_time": {
+            "N": "35"
+          },
+          "text": {
+            "S": ", it's going to infinity . And then I just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "42"
+          },
+          "start_time": {
+            "N": "38"
+          },
+          "text": {
+            "S": "kind of shade over here and this is the way"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "45"
+          },
+          "start_time": {
+            "N": "39"
+          },
+          "text": {
+            "S": "you would just do it on paper . Can't have"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "47"
+          },
+          "start_time": {
+            "N": "42"
+          },
+          "text": {
+            "S": "fancy . And we should make that . Maybe that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "50"
+          },
+          "start_time": {
+            "N": "44"
+          },
+          "text": {
+            "S": "number line that ever had thicker . Okay , that's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "55"
+          },
+          "start_time": {
+            "N": "47"
+          },
+          "text": {
+            "S": "all that . That's your number one . You don't"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "58"
+          },
+          "start_time": {
+            "N": "52"
+          },
+          "text": {
+            "S": "have fancy visual aids to put on your test ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "63"
+          },
+          "start_time": {
+            "N": "56"
+          },
+          "text": {
+            "S": "work it out . Next thing is inequality notation ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "70"
+          },
+          "start_time": {
+            "N": "60"
+          },
+          "text": {
+            "S": "Well , again , this represents X . Or any"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "73"
+          },
+          "start_time": {
+            "N": "67"
+          },
+          "text": {
+            "S": "variable you like . I like it . So what"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "75"
+          },
+          "start_time": {
+            "N": "70"
+          },
+          "text": {
+            "S": "we do is , well , we need to describe"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "78"
+          },
+          "start_time": {
+            "N": "72"
+          },
+          "text": {
+            "S": "what's happening to the exit . Well , the excess"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "82"
+          },
+          "start_time": {
+            "N": "75"
+          },
+          "text": {
+            "S": "are less than Or better than one . Tell me"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "87"
+          },
+          "start_time": {
+            "N": "79"
+          },
+          "text": {
+            "S": "what do you think ? Yeah , greater than one"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "89"
+          },
+          "start_time": {
+            "N": "84"
+          },
+          "text": {
+            "S": ". Yeah . So that's what I'm gonna write down"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "94"
+          },
+          "start_time": {
+            "N": "86"
+          },
+          "text": {
+            "S": "X is greater than one . Does it include 1"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "97"
+          },
+          "start_time": {
+            "N": "92"
+          },
+          "text": {
+            "S": "? Yes . So again , according to a little"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "100"
+          },
+          "start_time": {
+            "N": "94"
+          },
+          "text": {
+            "S": "table here , I love this thing . If it"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "102"
+          },
+          "start_time": {
+            "N": "97"
+          },
+          "text": {
+            "S": "includes it , we put the little equal signs with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "107"
+          },
+          "start_time": {
+            "N": "99"
+          },
+          "text": {
+            "S": "inequality symbols , so this is greater or equal 21"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "111"
+          },
+          "start_time": {
+            "N": "104"
+          },
+          "text": {
+            "S": "And next problem here is the easiest thing in the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "114"
+          },
+          "start_time": {
+            "N": "108"
+          },
+          "text": {
+            "S": "world . The set notation is the set of all"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "118"
+          },
+          "start_time": {
+            "N": "111"
+          },
+          "text": {
+            "S": "X values such that my exes are greater or equal"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "122"
+          },
+          "start_time": {
+            "N": "116"
+          },
+          "text": {
+            "S": "21 and that's all you have to do ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197405/20.jpg"
+          },
+          "summary": {
+            "S": "They actually give us just the interval notation Want infinity including one for I do the others.\nWhat happens exactly at 1?\nLets lets say right there is one.\nSo we ll just put one anywhere.\n the next problem.\nI always do the number line.\n"
+          },
+          "time": {
+            "S": "20"
+          },
+          "Title": {
+            "S": "Interval notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197405/44.jpg"
+          },
+          "summary": {
+            "S": "And then I just kind of shade over here and this is the way you would just do it on paper.\nGet hello dot.\nSo hopefully nice, confident looking.\nCan't have fancy.\n little table here, square brackets.\nIts all about right there.\n"
+          },
+          "time": {
+            "S": "44"
+          },
+          "Title": {
+            "S": "Notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197405/67.jpg"
+          },
+          "summary": {
+            "S": " all that.\nYou do nt have fancy visual aids to put on your test, work it out.\nNext thing is inequality notation.\nWell, again, this represents X.\nThats your number one.\n"
+          },
+          "time": {
+            "S": "67"
+          },
+          "Title": {
+            "S": "Inequality notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197405/92.jpg"
+          },
+          "summary": {
+            "S": "Yeah, greater than one.\nTell me what do you think?\n we do is, well, we need to describe whats happening to the exit.\nWell, the excess are less than Or better than one.\nSo thats what I m gon na write down X is greater than one.\n"
+          },
+          "time": {
+            "S": "92"
+          },
+          "Title": {
+            "S": "Greater than"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197405/111.jpg"
+          },
+          "summary": {
+            "S": " table here, I love this thing.\nIf it includes it, we put the little equal signs with inequality symbols, so this is greater or equal 21 And next problem here is the easiest thing in the world.\n"
+          },
+          "time": {
+            "S": "111"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "VideoID": {
+    "S": "VID_3199693"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "8"
+          },
+          "start_time": {
+            "N": "3"
+          },
+          "text": {
+            "S": "How do we know what all the natural numbers are"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "11"
+          },
+          "start_time": {
+            "N": "5"
+          },
+          "text": {
+            "S": "and the integers and whole numbers and all that stuff"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "14"
+          },
+          "start_time": {
+            "N": "9"
+          },
+          "text": {
+            "S": ". We want to be a little more formal with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "16"
+          },
+          "start_time": {
+            "N": "11"
+          },
+          "text": {
+            "S": "it . And for that we need to introduce the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "19"
+          },
+          "start_time": {
+            "N": "13"
+          },
+          "text": {
+            "S": "concept of a set . Set is just a collection"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "22"
+          },
+          "start_time": {
+            "N": "16"
+          },
+          "text": {
+            "S": "of objects . It could be letters and numbers ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "27"
+          },
+          "start_time": {
+            "N": "20"
+          },
+          "text": {
+            "S": "We usually the notes are set by capital letter ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "31"
+          },
+          "start_time": {
+            "N": "24"
+          },
+          "text": {
+            "S": "for example , how about O . H . And"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "41"
+          },
+          "start_time": {
+            "N": "28"
+          },
+          "text": {
+            "S": "we group the items within the set inside braces or"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "44"
+          },
+          "start_time": {
+            "N": "38"
+          },
+          "text": {
+            "S": "curly braces . The actual items inside the set are"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "47"
+          },
+          "start_time": {
+            "N": "41"
+          },
+          "text": {
+            "S": "called the elements of the set . And let's say"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "49"
+          },
+          "start_time": {
+            "N": "44"
+          },
+          "text": {
+            "S": "I want to make this a set of all numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "52"
+          },
+          "start_time": {
+            "N": "46"
+          },
+          "text": {
+            "S": ". I can count with one hand . 12345 ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "58"
+          },
+          "start_time": {
+            "N": "49"
+          },
+          "text": {
+            "S": "Let's actually write those in here . 1234 . Fine"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "61"
+          },
+          "start_time": {
+            "N": "56"
+          },
+          "text": {
+            "S": ". That's the set . An important thing to know"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "64"
+          },
+          "start_time": {
+            "N": "58"
+          },
+          "text": {
+            "S": "about says that there is no order much like my"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "70"
+          },
+          "start_time": {
+            "N": "61"
+          },
+          "text": {
+            "S": "apartment here . Sorry . There's also no repetition ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "73"
+          },
+          "start_time": {
+            "N": "67"
+          },
+          "text": {
+            "S": "I can't have 11222 and so on . That's just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "78"
+          },
+          "start_time": {
+            "N": "70"
+          },
+          "text": {
+            "S": "one of each . All right now , if I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "81"
+          },
+          "start_time": {
+            "N": "75"
+          },
+          "text": {
+            "S": "want to say that one is an element of this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "84"
+          },
+          "start_time": {
+            "N": "78"
+          },
+          "text": {
+            "S": "set , I would use this symbol right here ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "88"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": "So one is an element of sent H . That's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "92"
+          },
+          "start_time": {
+            "N": "85"
+          },
+          "text": {
+            "S": "how I would read that . Now . We also"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "97"
+          },
+          "start_time": {
+            "N": "89"
+          },
+          "text": {
+            "S": "have something called subsets . How about let's call this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "100"
+          },
+          "start_time": {
+            "N": "94"
+          },
+          "text": {
+            "S": "F . I'm going to make f . to be"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "104"
+          },
+          "start_time": {
+            "N": "97"
+          },
+          "text": {
+            "S": "the elements one and 2 . So F is a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "110"
+          },
+          "start_time": {
+            "N": "101"
+          },
+          "text": {
+            "S": "subset of H . Because everything that's an F is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "113"
+          },
+          "start_time": {
+            "N": "107"
+          },
+          "text": {
+            "S": "within the H . Yes , we have notations for"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "116"
+          },
+          "start_time": {
+            "N": "110"
+          },
+          "text": {
+            "S": "all this . But again , that's entirely different lesson"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "118"
+          },
+          "start_time": {
+            "N": "113"
+          },
+          "text": {
+            "S": ". I just want to give you the basics of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "121"
+          },
+          "start_time": {
+            "N": "115"
+          },
+          "text": {
+            "S": "what a set is for this lesson ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199693/20.jpg"
+          },
+          "summary": {
+            "S": "And for that we need to introduce the concept of a set.\nWe want to be a little more formal with it.\nSet is just a collection of objects.\n How do we know what all the natural numbers are and the integers and whole numbers and all that stuff.\n"
+          },
+          "time": {
+            "S": "20"
+          },
+          "Title": {
+            "S": "Set"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199693/44.jpg"
+          },
+          "summary": {
+            "S": "And we group the items within the set inside braces or curly braces.\n for example, how about O.\nH.\nThe actual items inside the set are called the elements of the set.\n"
+          },
+          "time": {
+            "S": "44"
+          },
+          "Title": {
+            "S": "Elements"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199693/67.jpg"
+          },
+          "summary": {
+            "S": "Theres also no repetition.\nI can count with one hand.\nLets actually write those in here.\nFine.\nThats the set.\nSorry.\nAn important thing to know about says that there is no order much like my apartment here.\n"
+          },
+          "time": {
+            "S": "67"
+          },
+          "Title": {
+            "S": "Example"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199693/89.jpg"
+          },
+          "summary": {
+            "S": "All right now, if I want to say that one is an element of this set, I would use this symbol right here.\n one of each.\nNow.\nSo one is an element of sent H.\nThats how I would read that.\n"
+          },
+          "time": {
+            "S": "89"
+          },
+          "Title": {
+            "S": "Belongs"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199693/113.jpg"
+          },
+          "summary": {
+            "S": " F.\nto be the elements one and 2.\nYes, we have notations for all this.\nI m going to make f.\nSo F is a subset of H.\nBecause everything thats an F is within the H.\n"
+          },
+          "time": {
+            "S": "113"
+          },
+          "Title": {
+            "S": "Subset"
+          }
+        }
+      }
+    ]
+  }
+}

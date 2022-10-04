@@ -1,0 +1,590 @@
+{
+  "VideoID": {
+    "S": "VID_3199689"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "11"
+			},
+          "start_time": {
+            "N": "4"
+          },
+          "text": {
+            "S": "now that we've covered all the basic types of numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "14"
+          },
+          "start_time": {
+            "N": "8"
+          },
+          "text": {
+            "S": ". It really is one more thing we should worry"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "19"
+          },
+          "start_time": {
+            "N": "11"
+          },
+          "text": {
+            "S": "about as well . What if something isn't on a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "24"
+          },
+          "start_time": {
+            "N": "16"
+          },
+          "text": {
+            "S": "number line ? Yeah . You know , it's great"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "25"
+          },
+          "start_time": {
+            "N": "21"
+          },
+          "text": {
+            "S": "to have a point , you know , right there"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "27"
+          },
+          "start_time": {
+            "N": "22"
+          },
+          "text": {
+            "S": "on the number line . But what my point is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "34"
+          },
+          "start_time": {
+            "N": "24"
+          },
+          "text": {
+            "S": "now , Well there it's not on the reliant then"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "38"
+          },
+          "start_time": {
+            "N": "31"
+          },
+          "text": {
+            "S": ". What ? That's a good question . Well ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "41"
+          },
+          "start_time": {
+            "N": "35"
+          },
+          "text": {
+            "S": "in that case we have what I call imagining numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "46"
+          },
+          "start_time": {
+            "N": "39"
+          },
+          "text": {
+            "S": "and they're represented by a lower case . I like"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "52"
+          },
+          "start_time": {
+            "N": "43"
+          },
+          "text": {
+            "S": "this imaginary numbers are numbers that are not real ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "55"
+          },
+          "start_time": {
+            "N": "50"
+          },
+          "text": {
+            "S": "but that's okay a little bit . You have a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "57"
+          },
+          "start_time": {
+            "N": "52"
+          },
+          "text": {
+            "S": "hard time understanding what an imagine number is . Don't"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "59"
+          },
+          "start_time": {
+            "N": "54"
+          },
+          "text": {
+            "S": "worry about it too much . You have an entire"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "62"
+          },
+          "start_time": {
+            "N": "56"
+          },
+          "text": {
+            "S": "different lesson that all we deal with are these imaginary"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "68"
+          },
+          "start_time": {
+            "N": "59"
+          },
+          "text": {
+            "S": "numbers . If we combine this , imagine numbers with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "70"
+          },
+          "start_time": {
+            "N": "65"
+          },
+          "text": {
+            "S": "the real numbers , then that is what we're going"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "75"
+          },
+          "start_time": {
+            "N": "67"
+          },
+          "text": {
+            "S": "to call complex numbers . The similar for complex numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "78"
+          },
+          "start_time": {
+            "N": "73"
+          },
+          "text": {
+            "S": ". Again , I don't talk about complex numbers in"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "81"
+          },
+          "start_time": {
+            "N": "75"
+          },
+          "text": {
+            "S": "detail in these notes . Again , it's safe for"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "84"
+          },
+          "start_time": {
+            "N": "78"
+          },
+          "text": {
+            "S": "another lecture but I want you to be aware of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "88"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": "their existence . Another example of a complex number is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "95"
+          },
+          "start_time": {
+            "N": "86"
+          },
+          "text": {
+            "S": "very specific square roots . For example , the square"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "103"
+          },
+          "start_time": {
+            "N": "92"
+          },
+          "text": {
+            "S": "root of negative two for example , I cannot put"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "108"
+          },
+          "start_time": {
+            "N": "100"
+          },
+          "text": {
+            "S": "that number on a number line . It's not real"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "113"
+          },
+          "start_time": {
+            "N": "106"
+          },
+          "text": {
+            "S": ". Yeah The inside or the radical can of a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "117"
+          },
+          "start_time": {
+            "N": "110"
+          },
+          "text": {
+            "S": "square root must be positive or zero cannot be negative"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "119"
+          },
+          "start_time": {
+            "N": "114"
+          },
+          "text": {
+            "S": ". It's negative . We can't do anything with it"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "124"
+          },
+          "start_time": {
+            "N": "116"
+          },
+          "text": {
+            "S": ". Those are part of the imaginary numbers . I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "127"
+          },
+          "start_time": {
+            "N": "121"
+          },
+          "text": {
+            "S": "mentioned this and I mentioned about the ice because sometimes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "129"
+          },
+          "start_time": {
+            "N": "124"
+          },
+          "text": {
+            "S": "on exams , professor will give you a list of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "133"
+          },
+          "start_time": {
+            "N": "126"
+          },
+          "text": {
+            "S": "numbers and say which one of these are real and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "135"
+          },
+          "start_time": {
+            "N": "130"
+          },
+          "text": {
+            "S": "well you could be able to identify . Oh if"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "139"
+          },
+          "start_time": {
+            "N": "132"
+          },
+          "text": {
+            "S": "I see a screwed of a negative number that nigger's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "141"
+          },
+          "start_time": {
+            "N": "136"
+          },
+          "text": {
+            "S": "on the inside , I can't count that . Alright"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "143"
+          },
+          "start_time": {
+            "N": "138"
+          },
+          "text": {
+            "S": "or an eye . If I see like a little"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "145"
+          },
+          "start_time": {
+            "N": "140"
+          },
+          "text": {
+            "S": "lower case on the outside , all bets are off"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "2"
+          },
+          "start_time": {
+            "N": "-1"
+          },
+          "text": {
+            "S": "."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199689/24.jpg"
+          },
+          "summary": {
+            "S": "What if something is nt on a number line?\n now that weve covered all the basic types of numbers.\nYeah.\nIt really is one more thing we should worry about as well.\nYou know, its great to have a point, you know, right there on the number line.\n"
+          },
+          "time": {
+            "S": "24"
+          },
+          "Title": {
+            "S": "Number lines"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199689/54.jpg"
+          },
+          "summary": {
+            "S": "Well, in that case we have what I call imagining numbers and theyre represented by a lower case.\nYou have a hard time understanding what an imagine number is.\nThats a good question.\nI like this imaginary numbers are numbers that are not real, but thats okay a little bit.\n"
+          },
+          "time": {
+            "S": "54"
+          },
+          "Title": {
+            "S": "Imaginary"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199689/81.jpg"
+          },
+          "summary": {
+            "S": " different lesson that all we deal with are these imaginary numbers.\nThe similar for complex numbers.\nAgain, I do nt talk about complex numbers in detail in these notes.\nIf we combine this, imagine numbers with the real numbers, then that is what were going to call complex numbers.\n"
+          },
+          "time": {
+            "S": "81"
+          },
+          "Title": {
+            "S": "Complex numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199689/110.jpg"
+          },
+          "summary": {
+            "S": "Its not real.\n very specific square roots.\nFor example, the square root of negative two for example, I can not put that number on a number line.\n"
+          },
+          "time": {
+            "S": "110"
+          },
+          "Title": {
+            "S": "Square roots "
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199689/140.jpg"
+          },
+          "summary": {
+            "S": "Oh if I see a screwed of a negative number that niggers on the inside, I ca nt count that.\nAlright or an eye.\nWe ca nt do anything with it.\nThose are part of the imaginary numbers.\nIts negative.\n"
+          },
+          "time": {
+            "S": "140"
+          },
+          "Title": {
+            "S": "Negative numbers"
+          }
+        }
+      }
+    ]
+  }
+}

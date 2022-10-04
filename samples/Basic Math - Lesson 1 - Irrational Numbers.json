@@ -1,0 +1,993 @@
+{
+  "VideoID": {
+    "S": "VID_3199685"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "8"
+          },
+          "start_time": {
+            "N": "0"
+          },
+          "text": {
+            "S": "irrational numbers so far we've looked at quite a few"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "11"
+          },
+          "start_time": {
+            "N": "5"
+          },
+          "text": {
+            "S": "numbers . Natural numbers , whole numbers into jurors and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "15"
+          },
+          "start_time": {
+            "N": "8"
+          },
+          "text": {
+            "S": "the rational numbers . There's another class of numbers are"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "19"
+          },
+          "start_time": {
+            "N": "12"
+          },
+          "text": {
+            "S": "called the irrational numbers . Well , what are those"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "23"
+          },
+          "start_time": {
+            "N": "16"
+          },
+          "text": {
+            "S": "? Those are numbers on a number line that cannot"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "28"
+          },
+          "start_time": {
+            "N": "20"
+          },
+          "text": {
+            "S": "be represented by an interview divided by manager . Okay"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "32"
+          },
+          "start_time": {
+            "N": "26"
+          },
+          "text": {
+            "S": ". Well what's an example ? Well , the most"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "38"
+          },
+          "start_time": {
+            "N": "29"
+          },
+          "text": {
+            "S": "famous example of an irrational number is pie . No"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "41"
+          },
+          "start_time": {
+            "N": "35"
+          },
+          "text": {
+            "S": ", not that pie . What I mean by pi"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "47"
+          },
+          "start_time": {
+            "N": "38"
+          },
+          "text": {
+            "S": "is this number pie ? The greek letter pi ?"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "50"
+          },
+          "start_time": {
+            "N": "45"
+          },
+          "text": {
+            "S": "Well , what is that number ? Well , that's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "55"
+          },
+          "start_time": {
+            "N": "47"
+          },
+          "text": {
+            "S": "the number that represents the number of diameters that fit"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "56"
+          },
+          "start_time": {
+            "N": "52"
+          },
+          "text": {
+            "S": "on the circle . So if you have a circle"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "60"
+          },
+          "start_time": {
+            "N": "53"
+          },
+          "text": {
+            "S": "right here , for example and I have this diameter"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "63"
+          },
+          "start_time": {
+            "N": "58"
+          },
+          "text": {
+            "S": ". Okay , I'll be able to take that out"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "69"
+          },
+          "start_time": {
+            "N": "60"
+          },
+          "text": {
+            "S": "and twisted it and placed it right on the circumference"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "72"
+          },
+          "start_time": {
+            "N": "66"
+          },
+          "text": {
+            "S": "of a circle . How many would fit ? Well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "78"
+          },
+          "start_time": {
+            "N": "69"
+          },
+          "text": {
+            "S": ", approximately 1 , 2 , 3 diameters . But"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "81"
+          },
+          "start_time": {
+            "N": "75"
+          },
+          "text": {
+            "S": "there's a little bit left right here . Okay ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "84"
+          },
+          "start_time": {
+            "N": "78"
+          },
+          "text": {
+            "S": "Well people have tried will not try . They have"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "93"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": "measured this and you get approximately 0.14 additional diameters right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "97"
+          },
+          "start_time": {
+            "N": "90"
+          },
+          "text": {
+            "S": "there . Okay so someone as well . Let's pie"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "98"
+          },
+          "start_time": {
+            "N": "94"
+          },
+          "text": {
+            "S": ". I understand that . It's not just the number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "101"
+          },
+          "start_time": {
+            "N": "95"
+          },
+          "text": {
+            "S": ", damage the food in a circle . Easy ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "103"
+          },
+          "start_time": {
+            "N": "98"
+          },
+          "text": {
+            "S": "Right now if you know that you can rest easily"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "106"
+          },
+          "start_time": {
+            "N": "100"
+          },
+          "text": {
+            "S": "now . Well , great . How can I actually"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "111"
+          },
+          "start_time": {
+            "N": "103"
+          },
+          "text": {
+            "S": "represent pi on the number line ? Well , it's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "115"
+          },
+          "start_time": {
+            "N": "108"
+          },
+          "text": {
+            "S": "a role . Let's say around right there . Okay"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "119"
+          },
+          "start_time": {
+            "N": "113"
+          },
+          "text": {
+            "S": ", Now I did not put the .3.14 . That's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "121"
+          },
+          "start_time": {
+            "N": "116"
+          },
+          "text": {
+            "S": "just an approximation that I want to say . That's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "125"
+          },
+          "start_time": {
+            "N": "118"
+          },
+          "text": {
+            "S": "really the exact value of pi . So actually irrational"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "128"
+          },
+          "start_time": {
+            "N": "122"
+          },
+          "text": {
+            "S": "numbers can be represented exactly as a point on a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "133"
+          },
+          "start_time": {
+            "N": "125"
+          },
+          "text": {
+            "S": "number line . That's a fact . Okay , what's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "136"
+          },
+          "start_time": {
+            "N": "130"
+          },
+          "text": {
+            "S": "another example of an irrational number ? Well , if"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "140"
+          },
+          "start_time": {
+            "N": "133"
+          },
+          "text": {
+            "S": "you've seen if you've encountered what to call radicals ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "144"
+          },
+          "start_time": {
+            "N": "138"
+          },
+          "text": {
+            "S": "like square roots , cube roots . Most of those"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "148"
+          },
+          "start_time": {
+            "N": "142"
+          },
+          "text": {
+            "S": "Are irrational numbers . An example of that is the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "151"
+          },
+          "start_time": {
+            "N": "145"
+          },
+          "text": {
+            "S": "square root of two . Again , if you have"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "155"
+          },
+          "start_time": {
+            "N": "148"
+          },
+          "text": {
+            "S": "not seen this type of notation , this number ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "158"
+          },
+          "start_time": {
+            "N": "152"
+          },
+          "text": {
+            "S": "I will cover that in another lecture . Okay ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "160"
+          },
+          "start_time": {
+            "N": "155"
+          },
+          "text": {
+            "S": "so but if you have great , you're going to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "163"
+          },
+          "start_time": {
+            "N": "157"
+          },
+          "text": {
+            "S": "get Good idea of where this is located . Well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "165"
+          },
+          "start_time": {
+            "N": "160"
+          },
+          "text": {
+            "S": ", if you punch it in your calculator , you're"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "170"
+          },
+          "start_time": {
+            "N": "162"
+          },
+          "text": {
+            "S": "gonna get approximately 1.4 or something . And that's going"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "172"
+          },
+          "start_time": {
+            "N": "167"
+          },
+          "text": {
+            "S": "to be some points on the number line . So"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "175"
+          },
+          "start_time": {
+            "N": "169"
+          },
+          "text": {
+            "S": "let's say that around right there . So approx ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "180"
+          },
+          "start_time": {
+            "N": "172"
+          },
+          "text": {
+            "S": "Okay , well again , I want I mean 1.4"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "181"
+          },
+          "start_time": {
+            "N": "177"
+          },
+          "text": {
+            "S": "is approximate value . But again , I want to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "183"
+          },
+          "start_time": {
+            "N": "178"
+          },
+          "text": {
+            "S": "say that that's actually the precise value . At least"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "188"
+          },
+          "start_time": {
+            "N": "180"
+          },
+          "text": {
+            "S": "pretend that if that is where my square root of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "192"
+          },
+          "start_time": {
+            "N": "185"
+          },
+          "text": {
+            "S": "two is looking , I'll say right here is my"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "200"
+          },
+          "start_time": {
+            "N": "189"
+          },
+          "text": {
+            "S": "pie . Okay . On a number line again ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "202"
+          },
+          "start_time": {
+            "N": "197"
+          },
+          "text": {
+            "S": "there are other examples I talked about a little bit"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "206"
+          },
+          "start_time": {
+            "N": "199"
+          },
+          "text": {
+            "S": "that in the notes there's a number called E which"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "210"
+          },
+          "start_time": {
+            "N": "203"
+          },
+          "text": {
+            "S": "is the natural exponential number . Oh , that will"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "216"
+          },
+          "start_time": {
+            "N": "207"
+          },
+          "text": {
+            "S": "be covered again in detail in another lecture . So"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "219"
+          },
+          "start_time": {
+            "N": "213"
+          },
+          "text": {
+            "S": "here's an example , a couple examples of what are"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "222"
+          },
+          "start_time": {
+            "N": "216"
+          },
+          "text": {
+            "S": "irrational numbers . One last thing I wanna talk about"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "226"
+          },
+          "start_time": {
+            "N": "219"
+          },
+          "text": {
+            "S": ", the rational numbers is the symbol for its J"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "233"
+          },
+          "start_time": {
+            "N": "225"
+          },
+          "text": {
+            "S": ". Most textbooks don't make an effort to mention or"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "237"
+          },
+          "start_time": {
+            "N": "230"
+          },
+          "text": {
+            "S": "list a symbol for the irrational numbers . Other books"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "238"
+          },
+          "start_time": {
+            "N": "234"
+          },
+          "text": {
+            "S": "don't use J . They just say , well ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "243"
+          },
+          "start_time": {
+            "N": "235"
+          },
+          "text": {
+            "S": "it's just everything that's not a rational number , the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "247"
+          },
+          "start_time": {
+            "N": "240"
+          },
+          "text": {
+            "S": "opposite of irrational numbers . And that's that's fine to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "249"
+          },
+          "start_time": {
+            "N": "244"
+          },
+          "text": {
+            "S": "do that . And I mentioned that in my notes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "251"
+          },
+          "start_time": {
+            "N": "246"
+          },
+          "text": {
+            "S": ", you have different symbols . A queue of a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "253"
+          },
+          "start_time": {
+            "N": "248"
+          },
+          "text": {
+            "S": "little bar over of a little curly tilde over the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "258"
+          },
+          "start_time": {
+            "N": "250"
+          },
+          "text": {
+            "S": "Q . That's fine , but it can be represented"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "259"
+          },
+          "start_time": {
+            "N": "255"
+          },
+          "text": {
+            "S": "by the letter J ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199685/47.jpg"
+          },
+          "summary": {
+            "S": "Well, what is that number?\nTheres another class of numbers are called the irrational numbers.\nWell, the most famous example of an irrational number is pie.\nNo, not that pie.\nOkay.\nThe greek letter pi?\n irrational numbers so far weve looked at quite a few numbers.\n"
+          },
+          "time": {
+            "S": "47"
+          },
+          "Title": {
+            "S": "Number"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199685/100.jpg"
+          },
+          "summary": {
+            "S": "So if you have a circle right here, for example and I have this diameter.\n on the circle.\nOkay so someone as well.\nHow many would fit?\nLets pie.\nEasy.\nI understand that.\nBut theres a little bit left right here.\n"
+          },
+          "time": {
+            "S": "100"
+          },
+          "Title": {
+            "S": "Example"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199685/148.jpg"
+          },
+          "summary": {
+            "S": "Okay, whats another example of an irrational number?\nThats a fact.\nThats really the exact value of pi.\nLets say around right there.\nWell, its a role.\nWell, if youve seen if youve encountered what to call radicals, like square roots, cube roots.\n"
+          },
+          "time": {
+            "S": "148"
+          },
+          "Title": {
+            "S": "Irrational Number"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199685/203.jpg"
+          },
+          "summary": {
+            "S": "Okay, well again, I want I mean 1.4 is approximate value.\nOkay, so but if you have great, youre going to get Good idea of where this is located.\nSo approx.\n I will cover that in another lecture.\nOkay.\nAnd thats going to be some points on the number line.\n"
+          },
+          "time": {
+            "S": "203"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199685/250.jpg"
+          },
+          "summary": {
+            "S": "Most textbooks do nt make an effort to mention or list a symbol for the irrational numbers.\nAnd I mentioned that in my notes, you have different symbols.\nSo heres an example, a couple examples of what are irrational numbers.\n be covered again in detail in another lecture.\n"
+          },
+          "time": {
+            "S": "250"
+          },
+          "Title": {
+            "S": "Symbol"
+          }
+        }
+      }
+    ]
+  }
+}

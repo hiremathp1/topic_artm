@@ -1,0 +1,473 @@
+{
+  "VideoID": {
+    "S": "VID_3197395"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "6"
+          },
+          "start_time": {
+            "N": "0"
+          },
+          "text": {
+            "S": "for this Next part were given to inequality notation X"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "13"
+          },
+          "start_time": {
+            "N": "3"
+          },
+          "text": {
+            "S": "is in between negative 4/11 and 2/3 and includes two"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "16"
+          },
+          "start_time": {
+            "N": "10"
+          },
+          "text": {
+            "S": "thirds . Based on that . We want to create"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "19"
+          },
+          "start_time": {
+            "N": "13"
+          },
+          "text": {
+            "S": "the interval notation , the actual number , line graph"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "24"
+          },
+          "start_time": {
+            "N": "16"
+          },
+          "text": {
+            "S": "and the set notation . Well , Again , the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "26"
+          },
+          "start_time": {
+            "N": "21"
+          },
+          "text": {
+            "S": "strategy is try to do the number line 1st ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "31"
+          },
+          "start_time": {
+            "N": "24"
+          },
+          "text": {
+            "S": "So I'm going to just arbitrarily but then a couple"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "35"
+          },
+          "start_time": {
+            "N": "28"
+          },
+          "text": {
+            "S": "of tick marks and they're going to represent the 4/11"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "43"
+          },
+          "start_time": {
+            "N": "33"
+          },
+          "text": {
+            "S": "And the 2/3 X is in between . So it's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "46"
+          },
+          "start_time": {
+            "N": "40"
+          },
+          "text": {
+            "S": "going to be all these values right here . All"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "52"
+          },
+          "start_time": {
+            "N": "43"
+          },
+          "text": {
+            "S": "right . What happens at the end points ? We"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "56"
+          },
+          "start_time": {
+            "N": "49"
+          },
+          "text": {
+            "S": "don't include it At the 4 11th . So we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "62"
+          },
+          "start_time": {
+            "N": "53"
+          },
+          "text": {
+            "S": "make it an open dot And at 2/3 we close"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "66"
+          },
+          "start_time": {
+            "N": "59"
+          },
+          "text": {
+            "S": "the dot . Okay , Again , I'm showing you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "69"
+          },
+          "start_time": {
+            "N": "63"
+          },
+          "text": {
+            "S": "how you would do this on paper . Now for"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "73"
+          },
+          "start_time": {
+            "N": "66"
+          },
+          "text": {
+            "S": "the set notation we pretty much have the answer is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "75"
+          },
+          "start_time": {
+            "N": "70"
+          },
+          "text": {
+            "S": "looking at us right there . All we need to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "77"
+          },
+          "start_time": {
+            "N": "72"
+          },
+          "text": {
+            "S": "do now is just out on the lecture to it"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "80"
+          },
+          "start_time": {
+            "N": "74"
+          },
+          "text": {
+            "S": ". Set all access or the set of all X"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "83"
+          },
+          "start_time": {
+            "N": "77"
+          },
+          "text": {
+            "S": "values such that . Then we just copy this down"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "87"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": ". Yeah , because in between I get 4 11"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "93"
+          },
+          "start_time": {
+            "N": "85"
+          },
+          "text": {
+            "S": "mm and two thirds . Close the braces and close"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "96"
+          },
+          "start_time": {
+            "N": "90"
+          },
+          "text": {
+            "S": "to 2/3 . All you have to do for the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "100"
+          },
+          "start_time": {
+            "N": "93"
+          },
+          "text": {
+            "S": "set notation , interval notation . Again , you kind"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "102"
+          },
+          "start_time": {
+            "N": "97"
+          },
+          "text": {
+            "S": "of look at this from left to right . We"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "105"
+          },
+          "start_time": {
+            "N": "99"
+          },
+          "text": {
+            "S": "have an open interval here . So we start off"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "111"
+          },
+          "start_time": {
+            "N": "102"
+          },
+          "text": {
+            "S": "with a parentheses -411th . We stop at 2/3 ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "117"
+          },
+          "start_time": {
+            "N": "108"
+          },
+          "text": {
+            "S": "You go to third close brackets . That finishes the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "117"
+          },
+          "start_time": {
+            "N": "114"
+          },
+          "text": {
+            "S": "problem ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197395/16.jpg"
+          },
+          "summary": {
+            "S": " for this Next part were given to inequality notation X is in between negative 4/11 and 2/3 and includes two thirds.\nBased on that.\n"
+          },
+          "time": {
+            "S": "16"
+          },
+          "Title": {
+            "S": "Inequality notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197395/43.jpg"
+          },
+          "summary": {
+            "S": " strategy is try to do the number line 1st.\nSo its going to be all these values right here.\nSo I m going to just arbitrarily but then a couple of tick marks and theyre going to represent the 4/11 And the 2/3 X is in between.\n"
+          },
+          "time": {
+            "S": "43"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197395/66.jpg"
+          },
+          "summary": {
+            "S": " do nt include it At the 4 11th.\nOkay, Again, I m showing you how you would do this on paper.\nSo we make it an open dot And at 2/3 we close the dot.\n"
+          },
+          "time": {
+            "S": "66"
+          },
+          "Title": {
+            "S": "Close dot"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197395/90.jpg"
+          },
+          "summary": {
+            "S": "Then we just copy this down.\n looking at us right there.\nSet all access or the set of all X values such that.\nYeah, because in between I get 4 11 mm and two thirds.\nAll we need to do now is just out on the lecture to it.\n"
+          },
+          "time": {
+            "S": "90"
+          },
+          "Title": {
+            "S": "Set notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197395/108.jpg"
+          },
+          "summary": {
+            "S": "We stop at 2/3.\n set notation, interval notation.\nSo we start off with a parentheses -411 th.\nWe have an open interval here.\nAgain, you kind of look at this from left to right.\n"
+          },
+          "time": {
+            "S": "108"
+          },
+          "Title": {
+            "S": "Interval notation"
+          }
+        }
+      }
+    ]
+  }
+}

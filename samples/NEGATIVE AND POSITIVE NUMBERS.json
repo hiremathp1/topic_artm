@@ -1,0 +1,499 @@
+{
+  "VideoID": {
+    "S": "VID_3199690"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "10"
+          },
+          "start_time": {
+            "N": "1"
+          },
+          "text": {
+            "S": "integers . Well whole numbers are fine . You can"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "13"
+          },
+          "start_time": {
+            "N": "7"
+          },
+          "text": {
+            "S": "do quite a bit with them . For example way"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "18"
+          },
+          "start_time": {
+            "N": "10"
+          },
+          "text": {
+            "S": "I can count the big bucks here . 12345 and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "22"
+          },
+          "start_time": {
+            "N": "15"
+          },
+          "text": {
+            "S": "10 and 20 . That's great . But for example"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "24"
+          },
+          "start_time": {
+            "N": "19"
+          },
+          "text": {
+            "S": ", if I look at my bank accounts recently ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "28"
+          },
+          "start_time": {
+            "N": "22"
+          },
+          "text": {
+            "S": "I don't see any of these things . I see"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "31"
+          },
+          "start_time": {
+            "N": "26"
+          },
+          "text": {
+            "S": "little dash and then a number like it's a negative"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "35"
+          },
+          "start_time": {
+            "N": "28"
+          },
+          "text": {
+            "S": "value to call values are less than zero . In"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "36"
+          },
+          "start_time": {
+            "N": "32"
+          },
+          "text": {
+            "S": "fact , let's look at that on a number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "39"
+          },
+          "start_time": {
+            "N": "33"
+          },
+          "text": {
+            "S": "here . I changed my numbers . So if I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "43"
+          },
+          "start_time": {
+            "N": "36"
+          },
+          "text": {
+            "S": "have 01234 forever , that's fine . But see there's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "46"
+          },
+          "start_time": {
+            "N": "40"
+          },
+          "text": {
+            "S": "this whole other area on a number line which we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "49"
+          },
+          "start_time": {
+            "N": "43"
+          },
+          "text": {
+            "S": "have not talked about now . We want to talk"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "53"
+          },
+          "start_time": {
+            "N": "46"
+          },
+          "text": {
+            "S": "about them and that is where integers come in handy"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "57"
+          },
+          "start_time": {
+            "N": "51"
+          },
+          "text": {
+            "S": ". The symbol for integers is a Z . Y"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "62"
+          },
+          "start_time": {
+            "N": "54"
+          },
+          "text": {
+            "S": ". Z . I don't know . Latin or something"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "65"
+          },
+          "start_time": {
+            "N": "60"
+          },
+          "text": {
+            "S": ". I tried looking at it . I can't find"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "67"
+          },
+          "start_time": {
+            "N": "62"
+          },
+          "text": {
+            "S": ", maybe someone can write to me , but it's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "69"
+          },
+          "start_time": {
+            "N": "64"
+          },
+          "text": {
+            "S": "traditionally denoted by the letter Z . Again , it"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "74"
+          },
+          "start_time": {
+            "N": "66"
+          },
+          "text": {
+            "S": "has this double bar with it . And now let"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "77"
+          },
+          "start_time": {
+            "N": "71"
+          },
+          "text": {
+            "S": "me take a moment to show you on a number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "81"
+          },
+          "start_time": {
+            "N": "74"
+          },
+          "text": {
+            "S": "line , The other negative numbers . Well , here"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "85"
+          },
+          "start_time": {
+            "N": "78"
+          },
+          "text": {
+            "S": "we see now , the negative numbers on the number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "89"
+          },
+          "start_time": {
+            "N": "82"
+          },
+          "text": {
+            "S": "line . Let's take a moment here . This is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "93"
+          },
+          "start_time": {
+            "N": "86"
+          },
+          "text": {
+            "S": "how you can represent integers on a number line ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "97"
+          },
+          "start_time": {
+            "N": "90"
+          },
+          "text": {
+            "S": "Again , each dot represents each number right ? And"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "99"
+          },
+          "start_time": {
+            "N": "94"
+          },
+          "text": {
+            "S": "again , some people have a hard time grasping the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "101"
+          },
+          "start_time": {
+            "N": "96"
+          },
+          "text": {
+            "S": "concept a negative number . Just think of it as"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "104"
+          },
+          "start_time": {
+            "N": "99"
+          },
+          "text": {
+            "S": "a debt . Again , like my thing , I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "107"
+          },
+          "start_time": {
+            "N": "101"
+          },
+          "text": {
+            "S": "kind of balance . And let's look at another example"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "2"
+          },
+          "start_time": {
+            "N": "-1"
+          },
+          "text": {
+            "S": "."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199690/15.jpg"
+          },
+          "summary": {
+            "S": "You can do quite a bit with them.\n integers.\nWell whole numbers are fine.\nFor example way I can count the big bucks here.\n"
+          },
+          "time": {
+            "S": "15"
+          },
+          "Title": {
+            "S": "Integers"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199690/36.jpg"
+          },
+          "summary": {
+            "S": ", if I look at my bank accounts recently, I do nt see any of these things.\nI see little dash and then a number like its a negative value to call values are less than zero.\nIn fact, lets look at that on a number line here.\n"
+          },
+          "time": {
+            "S": "36"
+          },
+          "Title": {
+            "S": "Negative values"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199690/60.jpg"
+          },
+          "summary": {
+            "S": "The symbol for integers is a Z.\nY.\nI do nt know.\n this whole other area on a number line which we have not talked about now.\nWe want to talk about them and that is where integers come in handy.\nZ.\n"
+          },
+          "time": {
+            "S": "60"
+          },
+          "Title": {
+            "S": "The symbol"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199690/82.jpg"
+          },
+          "summary": {
+            "S": "Again, it has this double bar with it.\nAnd now let me take a moment to show you on a number line, The other negative numbers.\n, maybe someone can write to me, but its traditionally denoted by the letter Z.\n"
+          },
+          "time": {
+            "S": "82"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199690/101.jpg"
+          },
+          "summary": {
+            "S": "And again, some people have a hard time grasping the concept a negative number.\nJust think of it as a debt.\n how you can represent integers on a number line.\nAgain, each dot represents each number right?\n"
+          },
+          "time": {
+            "S": "101"
+          },
+          "Title": {
+            "S": "Negative numbers"
+          }
+        }
+      }
+    ]
+  }
+}

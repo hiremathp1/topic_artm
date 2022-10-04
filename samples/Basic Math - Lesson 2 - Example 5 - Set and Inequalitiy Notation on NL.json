@@ -1,0 +1,577 @@
+{
+  "VideoID": {
+    "S": "VID_3197404"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "7"
+          },
+          "start_time": {
+            "N": "1"
+          },
+          "text": {
+            "S": "for a last problem . Were given the set notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "10"
+          },
+          "start_time": {
+            "N": "5"
+          },
+          "text": {
+            "S": ", The set of all X . Such that X"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "16"
+          },
+          "start_time": {
+            "N": "7"
+          },
+          "text": {
+            "S": "is in between .65.9 and includes the 0.6 if I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "20"
+          },
+          "start_time": {
+            "N": "13"
+          },
+          "text": {
+            "S": "have this notation and right away I got any qualifications"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "22"
+          },
+          "start_time": {
+            "N": "17"
+          },
+          "text": {
+            "S": "so I can just write that out right away ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "26"
+          },
+          "start_time": {
+            "N": "20"
+          },
+          "text": {
+            "S": "So I'll just write down 2.6 . I like putting"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "32"
+          },
+          "start_time": {
+            "N": "23"
+          },
+          "text": {
+            "S": "zero in front . Becks is less than 5.9 ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "37"
+          },
+          "start_time": {
+            "N": "30"
+          },
+          "text": {
+            "S": "So X is in between .65.9 and includes the .6"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "39"
+          },
+          "start_time": {
+            "N": "35"
+          },
+          "text": {
+            "S": ". That was pretty easy . The next thing you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "44"
+          },
+          "start_time": {
+            "N": "36"
+          },
+          "text": {
+            "S": "want to do is the graph on the number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "49"
+          },
+          "start_time": {
+            "N": "42"
+          },
+          "text": {
+            "S": ". So let's pick a couple of tests Interval right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "53"
+          },
+          "start_time": {
+            "N": "46"
+          },
+          "text": {
+            "S": "there and there . I'm gonna call this .6 and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "59"
+          },
+          "start_time": {
+            "N": "50"
+          },
+          "text": {
+            "S": "I'm gonna call this 5.9 now . Some people and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "61"
+          },
+          "start_time": {
+            "N": "56"
+          },
+          "text": {
+            "S": "some professors , they insist you put the whole online"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "65"
+          },
+          "start_time": {
+            "N": "58"
+          },
+          "text": {
+            "S": ", put 01231 negative one negative . No , you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "67"
+          },
+          "start_time": {
+            "N": "62"
+          },
+          "text": {
+            "S": "don't have to do all that really . Of course"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "69"
+          },
+          "start_time": {
+            "N": "64"
+          },
+          "text": {
+            "S": ", if they insist on better , you know ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "72"
+          },
+          "start_time": {
+            "N": "66"
+          },
+          "text": {
+            "S": "they override anything I say , okay , they're the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "76"
+          },
+          "start_time": {
+            "N": "69"
+          },
+          "text": {
+            "S": "boss . But this is just the fast and simple"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "79"
+          },
+          "start_time": {
+            "N": "73"
+          },
+          "text": {
+            "S": ", straightforward , very visual way of represent information ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "84"
+          },
+          "start_time": {
+            "N": "78"
+          },
+          "text": {
+            "S": "And once I have these tick marks again , Xs"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "88"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": "are in between these values and again X represents the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "91"
+          },
+          "start_time": {
+            "N": "85"
+          },
+          "text": {
+            "S": "shaded part . All this part gets shaded right here"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "95"
+          },
+          "start_time": {
+            "N": "89"
+          },
+          "text": {
+            "S": ". All right . And what happens at the end"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "100"
+          },
+          "start_time": {
+            "N": "92"
+          },
+          "text": {
+            "S": "points ? Well , for here , we include our"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "102"
+          },
+          "start_time": {
+            "N": "97"
+          },
+          "text": {
+            "S": "end points us to be a solid dot or a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "106"
+          },
+          "start_time": {
+            "N": "99"
+          },
+          "text": {
+            "S": "solid circle in here . It's open . So I'm"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "108"
+          },
+          "start_time": {
+            "N": "103"
+          },
+          "text": {
+            "S": "kind of gonna race that there and make that a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "113"
+          },
+          "start_time": {
+            "N": "105"
+          },
+          "text": {
+            "S": "nice open dot right there . And that's what it"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "116"
+          },
+          "start_time": {
+            "N": "110"
+          },
+          "text": {
+            "S": "looks like on the number line . Now , once"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "121"
+          },
+          "start_time": {
+            "N": "113"
+          },
+          "text": {
+            "S": "you have this my interval notation , cake baby stuff"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "125"
+          },
+          "start_time": {
+            "N": "119"
+          },
+          "text": {
+            "S": "again , we're scanning this from left to right ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "127"
+          },
+          "start_time": {
+            "N": "122"
+          },
+          "text": {
+            "S": "So we're gonna start off , I like to go"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "129"
+          },
+          "start_time": {
+            "N": "124"
+          },
+          "text": {
+            "S": "over here . I want to start off with a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "136"
+          },
+          "start_time": {
+            "N": "126"
+          },
+          "text": {
+            "S": "square brackets and 0.6 comma . And we stopped at"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "141"
+          },
+          "start_time": {
+            "N": "133"
+          },
+          "text": {
+            "S": "five .9 and we don't include it . Uh huh"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "143"
+          },
+          "start_time": {
+            "N": "139"
+          },
+          "text": {
+            "S": ". That's it ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197404/23.jpg"
+          },
+          "summary": {
+            "S": "So I ll just write down 2.6.\n for a last problem.\nWere given the set notation, The set of all X.\nSuch that X is in between .65.9 and includes the 0.6 if I have this notation and right away I got any qualifications so I can just write that out right away.\n"
+          },
+          "time": {
+            "S": "23"
+          },
+          "Title": {
+            "S": "Set notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197404/50.jpg"
+          },
+          "summary": {
+            "S": " So X is in between .65.9 and includes the .6.\nThat was pretty easy.\nSo lets pick a couple of tests Interval right there and there.\nThe next thing you want to do is the graph on the number line.\n"
+          },
+          "time": {
+            "S": "50"
+          },
+          "Title": {
+            "S": "Inequality"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197404/81.jpg"
+          },
+          "summary": {
+            "S": " some professors, they insist you put the whole online, put 01231 negative one negative.\nBut this is just the fast and simple, straightforward, very visual way of represent information.\nNo, you do not have to do all that really.\n"
+          },
+          "time": {
+            "S": "81"
+          },
+          "Title": {
+            "S": " some professors,"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197404/105.jpg"
+          },
+          "summary": {
+            "S": "All this part gets shaded right here.\nAnd what happens at the end points?\nIts open.\nWell, for here, we include our end points us to be a solid dot or a solid circle in here.\n shaded part.\nAll right.\n"
+          },
+          "time": {
+            "S": "105"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197404/133.jpg"
+          },
+          "summary": {
+            "S": "I want to start off with a square brackets and 0.6 comma.\n looks like on the number line.\nNow, once you have this my interval notation, cake baby stuff again, were scanning this from left to right.\nSo were gon na start off, I like to go over here.\n"
+          },
+          "time": {
+            "S": "133"
+          },
+          "Title": {
+            "S": "Interval Notation"
+          }
+        }
+      }
+    ]
+  }
+}

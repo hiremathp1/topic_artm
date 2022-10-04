@@ -1,0 +1,1448 @@
+{
+  "VideoID": {
+    "S": "VID_3199691"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "8"
+          },
+          "start_time": {
+            "N": "1"
+          },
+          "text": {
+            "S": "rational numbers ? Well , investors are fine for quite"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "11"
+          },
+          "start_time": {
+            "N": "5"
+          },
+          "text": {
+            "S": "a few things in mathematics , but again , we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "15"
+          },
+          "start_time": {
+            "N": "8"
+          },
+          "text": {
+            "S": "have a slight problem . Not everything is a whole"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "19"
+          },
+          "start_time": {
+            "N": "12"
+          },
+          "text": {
+            "S": "number that's Positive or negative or zero . Okay ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "24"
+          },
+          "start_time": {
+            "N": "16"
+          },
+          "text": {
+            "S": "We saw dollars for example , like a whole unit"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "28"
+          },
+          "start_time": {
+            "N": "21"
+          },
+          "text": {
+            "S": ", but for example with the United States currency in"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "30"
+          },
+          "start_time": {
+            "N": "25"
+          },
+          "text": {
+            "S": "case you're in a different country . This is an"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "33"
+          },
+          "start_time": {
+            "N": "27"
+          },
+          "text": {
+            "S": "example of the United States currency . We don't just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "37"
+          },
+          "start_time": {
+            "N": "30"
+          },
+          "text": {
+            "S": "have dollars . We also have half a dollar or"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "40"
+          },
+          "start_time": {
+            "N": "34"
+          },
+          "text": {
+            "S": "a quarter of a dollar . Their parts , they're"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "46"
+          },
+          "start_time": {
+            "N": "37"
+          },
+          "text": {
+            "S": "smaller parts of a whole or five cents a penny"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "48"
+          },
+          "start_time": {
+            "N": "43"
+          },
+          "text": {
+            "S": "a dime . We have different values that are actually"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "53"
+          },
+          "start_time": {
+            "N": "45"
+          },
+          "text": {
+            "S": "smaller than one unit on a number line . One"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "55"
+          },
+          "start_time": {
+            "N": "50"
+          },
+          "text": {
+            "S": "unit is exactly this is for one tick marks ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "58"
+          },
+          "start_time": {
+            "N": "52"
+          },
+          "text": {
+            "S": "the next tick mark , One unit to units three"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "61"
+          },
+          "start_time": {
+            "N": "55"
+          },
+          "text": {
+            "S": "units and so on . But what if I wanted"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "64"
+          },
+          "start_time": {
+            "N": "58"
+          },
+          "text": {
+            "S": "to put instead of a point right here from zero"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "68"
+          },
+          "start_time": {
+            "N": "61"
+          },
+          "text": {
+            "S": "is fine and one is fine right there . But"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "70"
+          },
+          "start_time": {
+            "N": "65"
+          },
+          "text": {
+            "S": "what if I want to point Oh , let's say"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "76"
+          },
+          "start_time": {
+            "N": "67"
+          },
+          "text": {
+            "S": "they're in the middle . Yeah . Well , we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "80"
+          },
+          "start_time": {
+            "N": "73"
+          },
+          "text": {
+            "S": "need something that would describe what a half is of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "84"
+          },
+          "start_time": {
+            "N": "77"
+          },
+          "text": {
+            "S": "something and that's where rational numbers come in . A"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "89"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": "rational number is actually defined to be an integer divided"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "93"
+          },
+          "start_time": {
+            "N": "86"
+          },
+          "text": {
+            "S": "by another integer . Well , The divided part Campy"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "98"
+          },
+          "start_time": {
+            "N": "90"
+          },
+          "text": {
+            "S": "zero technicality . The math symbol is Q quotient ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "104"
+          },
+          "start_time": {
+            "N": "96"
+          },
+          "text": {
+            "S": "All right . And they're pretty handy to describe ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "112"
+          },
+          "start_time": {
+            "N": "102"
+          },
+          "text": {
+            "S": "Great category of mathematics . All right . So in"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "114"
+          },
+          "start_time": {
+            "N": "109"
+          },
+          "text": {
+            "S": "a nutshell , but you want to remember about a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "118"
+          },
+          "start_time": {
+            "N": "111"
+          },
+          "text": {
+            "S": "rational number . It's an integer for example . Three"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "121"
+          },
+          "start_time": {
+            "N": "115"
+          },
+          "text": {
+            "S": "divided by another integer . That's zero . Like ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "127"
+          },
+          "start_time": {
+            "N": "118"
+          },
+          "text": {
+            "S": "like seven for example . Okay , now you might"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "130"
+          },
+          "start_time": {
+            "N": "124"
+          },
+          "text": {
+            "S": "say , well this this is a nickel . It's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "135"
+          },
+          "start_time": {
+            "N": "127"
+          },
+          "text": {
+            "S": "worth five cents . five cents can be represented with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "143"
+          },
+          "start_time": {
+            "N": "132"
+          },
+          "text": {
+            "S": "dollars Like this .05 . So it turns out dust"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "146"
+          },
+          "start_time": {
+            "N": "140"
+          },
+          "text": {
+            "S": ". Certain decimal numbers , not all decimals , but"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "150"
+          },
+          "start_time": {
+            "N": "143"
+          },
+          "text": {
+            "S": "certain decimal numbers are also rational numbers . Well ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "153"
+          },
+          "start_time": {
+            "N": "147"
+          },
+          "text": {
+            "S": "which one ? Well , death was something like this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "160"
+          },
+          "start_time": {
+            "N": "150"
+          },
+          "text": {
+            "S": "? Or let's say .25 for a quarter ? 0.1"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "166"
+          },
+          "start_time": {
+            "N": "157"
+          },
+          "text": {
+            "S": "point 10.5 . Now on paper I like putting a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "171"
+          },
+          "start_time": {
+            "N": "163"
+          },
+          "text": {
+            "S": "zero in front of all these decimals . So you'll"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "173"
+          },
+          "start_time": {
+            "N": "168"
+          },
+          "text": {
+            "S": "see me do that quite a bit and that's so"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "176"
+          },
+          "start_time": {
+            "N": "170"
+          },
+          "text": {
+            "S": "I don't lose the decimal point . You'd be surprised"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "178"
+          },
+          "start_time": {
+            "N": "173"
+          },
+          "text": {
+            "S": ". Sometimes I'll write something like you know , .5"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "181"
+          },
+          "start_time": {
+            "N": "175"
+          },
+          "text": {
+            "S": "and you probably can't even see that . Okay or"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "183"
+          },
+          "start_time": {
+            "N": "178"
+          },
+          "text": {
+            "S": "write down .5 so fast . It looks like a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "185"
+          },
+          "start_time": {
+            "N": "180"
+          },
+          "text": {
+            "S": "line I think . Oops that's a negative five and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "187"
+          },
+          "start_time": {
+            "N": "182"
+          },
+          "text": {
+            "S": "I make a mistake and I get it wrong and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "191"
+          },
+          "start_time": {
+            "N": "184"
+          },
+          "text": {
+            "S": "life is not good . So I will try to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "196"
+          },
+          "start_time": {
+            "N": "188"
+          },
+          "text": {
+            "S": "put a zero in front of my decimals now ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "203"
+          },
+          "start_time": {
+            "N": "193"
+          },
+          "text": {
+            "S": "What about other types of decimals ? Okay , let's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "206"
+          },
+          "start_time": {
+            "N": "200"
+          },
+          "text": {
+            "S": "talk about that next . Well now we can see"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "209"
+          },
+          "start_time": {
+            "N": "203"
+          },
+          "text": {
+            "S": "I've zoomed in a bit on the number line ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "212"
+          },
+          "start_time": {
+            "N": "206"
+          },
+          "text": {
+            "S": "There's my my 01 to the negatives on this direction"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "215"
+          },
+          "start_time": {
+            "N": "209"
+          },
+          "text": {
+            "S": "here . But now look what I did , I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "220"
+          },
+          "start_time": {
+            "N": "212"
+          },
+          "text": {
+            "S": "kind of subdivided each entire units of Each one being"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "224"
+          },
+          "start_time": {
+            "N": "217"
+          },
+          "text": {
+            "S": "1 , 2 , 3 . This is one that's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "228"
+          },
+          "start_time": {
+            "N": "221"
+          },
+          "text": {
+            "S": "two and I would like to represent this point right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "232"
+          },
+          "start_time": {
+            "N": "225"
+          },
+          "text": {
+            "S": "here . What what is that ? Well looks like"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "236"
+          },
+          "start_time": {
+            "N": "229"
+          },
+          "text": {
+            "S": "we split this up in three parts , so parts"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "242"
+          },
+          "start_time": {
+            "N": "233"
+          },
+          "text": {
+            "S": "of three and it looks like it's the 12 2nd"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "248"
+          },
+          "start_time": {
+            "N": "240"
+          },
+          "text": {
+            "S": "part of three sections . Right ? Sure . Most"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "252"
+          },
+          "start_time": {
+            "N": "245"
+          },
+          "text": {
+            "S": "people can recognize that to be two thirds . So"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "256"
+          },
+          "start_time": {
+            "N": "249"
+          },
+          "text": {
+            "S": "fractions can be represented on a number line . And"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "259"
+          },
+          "start_time": {
+            "N": "254"
+          },
+          "text": {
+            "S": "This is how it would look like just 2/3 ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "262"
+          },
+          "start_time": {
+            "N": "256"
+          },
+          "text": {
+            "S": "And you put a point there . Now , how"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "267"
+          },
+          "start_time": {
+            "N": "259"
+          },
+          "text": {
+            "S": "can we represent this fraction in decimal form ? Well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "271"
+          },
+          "start_time": {
+            "N": "265"
+          },
+          "text": {
+            "S": "you put the three out there and twos in here"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "274"
+          },
+          "start_time": {
+            "N": "268"
+          },
+          "text": {
+            "S": ", Well three doesn't fit into two , so zero"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "277"
+          },
+          "start_time": {
+            "N": "272"
+          },
+          "text": {
+            "S": ". So I'm going to attack on a zero and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "279"
+          },
+          "start_time": {
+            "N": "274"
+          },
+          "text": {
+            "S": "put a decimal point right there and there's this one"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "281"
+          },
+          "start_time": {
+            "N": "276"
+          },
+          "text": {
+            "S": "point right there You said . Well How many 3"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "285"
+          },
+          "start_time": {
+            "N": "280"
+          },
+          "text": {
+            "S": "? It's in the 20 ? Well six of those"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "287"
+          },
+          "start_time": {
+            "N": "282"
+          },
+          "text": {
+            "S": "six times . I'm gonna do this by the way"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "290"
+          },
+          "start_time": {
+            "N": "284"
+          },
+          "text": {
+            "S": ". The American way of doing division , there's also"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "294"
+          },
+          "start_time": {
+            "N": "287"
+          },
+          "text": {
+            "S": "European or Latin . American way of doing long division"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "297"
+          },
+          "start_time": {
+            "N": "291"
+          },
+          "text": {
+            "S": ". We'll probably see that for an election . But"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "301"
+          },
+          "start_time": {
+            "N": "294"
+          },
+          "text": {
+            "S": "anyway , we're going to get 18 , we subtract"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "303"
+          },
+          "start_time": {
+            "N": "298"
+          },
+          "text": {
+            "S": ", we're going to get to and then we tack"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "306"
+          },
+          "start_time": {
+            "N": "300"
+          },
+          "text": {
+            "S": "on a zero here and zero here and guess what"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "307"
+          },
+          "start_time": {
+            "N": "303"
+          },
+          "text": {
+            "S": "? We're going to still get we're going to keep"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "313"
+          },
+          "start_time": {
+            "N": "304"
+          },
+          "text": {
+            "S": "getting 2020 2020 20 . We gotta keep getting 666666"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "318"
+          },
+          "start_time": {
+            "N": "310"
+          },
+          "text": {
+            "S": "forever . Mm That's interesting . What does that tell"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "324"
+          },
+          "start_time": {
+            "N": "315"
+          },
+          "text": {
+            "S": "us ? Well we know 2/3 . Is it Rational"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "326"
+          },
+          "start_time": {
+            "N": "321"
+          },
+          "text": {
+            "S": "number because it can be represented by answer , divided"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "329"
+          },
+          "start_time": {
+            "N": "323"
+          },
+          "text": {
+            "S": "by a manager . Not zero . I can place"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "333"
+          },
+          "start_time": {
+            "N": "326"
+          },
+          "text": {
+            "S": "on the number line But its decimal representation doesn't stop"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "336"
+          },
+          "start_time": {
+            "N": "330"
+          },
+          "text": {
+            "S": "like .5 or .25 what we saw earlier , It"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "340"
+          },
+          "start_time": {
+            "N": "333"
+          },
+          "text": {
+            "S": "never ends . And notice it's always 666 . We"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "342"
+          },
+          "start_time": {
+            "N": "337"
+          },
+          "text": {
+            "S": "have to be the case has exactly the same number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "346"
+          },
+          "start_time": {
+            "N": "339"
+          },
+          "text": {
+            "S": ". Well no I can have another number for example"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "351"
+          },
+          "start_time": {
+            "N": "343"
+          },
+          "text": {
+            "S": ", .1 to 1-0 1212 forever . Or I can"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "365"
+          },
+          "start_time": {
+            "N": "348"
+          },
+          "text": {
+            "S": "have let's say zero 357357 three 57 forever . Okay"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "371"
+          },
+          "start_time": {
+            "N": "365"
+          },
+          "text": {
+            "S": ". As long as a set number of repeating digits"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "376"
+          },
+          "start_time": {
+            "N": "369"
+          },
+          "text": {
+            "S": "along the way , that's actually a rational number now"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "379"
+          },
+          "start_time": {
+            "N": "373"
+          },
+          "text": {
+            "S": ". How can we represent these decimals and more obviously"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "383"
+          },
+          "start_time": {
+            "N": "376"
+          },
+          "text": {
+            "S": "can't write forever . So the .66es forever . It"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "387"
+          },
+          "start_time": {
+            "N": "380"
+          },
+          "text": {
+            "S": "can be represented with a bar over the six ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "390"
+          },
+          "start_time": {
+            "N": "385"
+          },
+          "text": {
+            "S": "And this number over here , I can represent that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "393"
+          },
+          "start_time": {
+            "N": "388"
+          },
+          "text": {
+            "S": "With a bar over one to this . Can be"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "398"
+          },
+          "start_time": {
+            "N": "390"
+          },
+          "text": {
+            "S": "represented by 357 and a bar over the three numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "402"
+          },
+          "start_time": {
+            "N": "395"
+          },
+          "text": {
+            "S": ". And that just means the number repeats itself forever"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "409"
+          },
+          "start_time": {
+            "N": "401"
+          },
+          "text": {
+            "S": ". And that in a nutshell is what the rational"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "411"
+          },
+          "start_time": {
+            "N": "406"
+          },
+          "text": {
+            "S": "numbers are all about . There's some examples of these"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "411"
+          },
+          "start_time": {
+            "N": "408"
+          },
+          "text": {
+            "S": ". Okay ,"
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "NULL": true
+          },
+          "summary": {
+            "S": "We saw dollars for example, like a whole unit, but for example with the United States currency in case youre in a different country.\nBut what if I wanted to put instead of a point right here from zero is fine and one is fine right there.\n"
+          },
+          "time": {
+            "S": "77"
+          },
+          "Title": {
+            "S": "Dollars"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199691/157.jpg"
+          },
+          "summary": {
+            "S": "Its an integer for example.\nOkay, now you might say, well this this is a nickel.\nAll right.\nWell, The divided part Campy zero technicality.\nfive cents can be represented with dollars Like this .05.\nSo in a nutshell, but you want to remember about a rational number.\n"
+          },
+          "time": {
+            "S": "157"
+          },
+          "Title": {
+            "S": "Integer"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199691/240.jpg"
+          },
+          "summary": {
+            "S": "So I will try to put a zero in front of my decimals now.\nWhat what is that?\nSo you ll see me do that quite a bit and thats so I do nt lose the decimal point.\nIt looks like a line I think.\nOkay or write down .5 so fast.\n"
+          },
+          "time": {
+            "S": "240"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199691/323.jpg"
+          },
+          "summary": {
+            "S": "So I m going to attack on a zero and put a decimal point right there and theres this one point right there You said.\nWere going to still get were going to keep getting 2020 2020 20.\nIts in the 20?\nWell How many 3?\n"
+          },
+          "time": {
+            "S": "323"
+          },
+          "Title": {
+            "S": "Fraction"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199691/406.jpg"
+          },
+          "summary": {
+            "S": "It can be represented with a bar over the six.\nOr I can have lets say zero 357357 three 57 forever.\nAnd that just means the number repeats itself forever.\nWe have to be the case has exactly the same number.\n on the number line But its decimal representation does nt stop like .5 or .25 what we saw earlier, It never ends.\n"
+          },
+          "time": {
+            "S": "406"
+          },
+          "Title": {
+            "S": "Decimal"
+          }
+        }
+      }
+    ]
+  }
+}

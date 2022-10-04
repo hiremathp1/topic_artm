@@ -1,0 +1,1188 @@
+{
+  "VideoID": {
+    "S": "VID_3197400"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "9"
+          },
+          "start_time": {
+            "N": "-1"
+          },
+          "text": {
+            "S": "interval inequality and set notation . This part of the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "14"
+          },
+          "start_time": {
+            "N": "6"
+          },
+          "text": {
+            "S": "lesson deals with how to properly correctly write down different"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "19"
+          },
+          "start_time": {
+            "N": "11"
+          },
+          "text": {
+            "S": "types of notation . That represents a span of numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "21"
+          },
+          "start_time": {
+            "N": "16"
+          },
+          "text": {
+            "S": ". What I mean by that ? Well let's say"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "29"
+          },
+          "start_time": {
+            "N": "18"
+          },
+          "text": {
+            "S": "I want to somehow represent all the numbers that are"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "35"
+          },
+          "start_time": {
+            "N": "26"
+          },
+          "text": {
+            "S": "between one and three on a number line . That's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "37"
+          },
+          "start_time": {
+            "N": "32"
+          },
+          "text": {
+            "S": "easy to do . All I need to do is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "43"
+          },
+          "start_time": {
+            "N": "34"
+          },
+          "text": {
+            "S": "just oh , something like this . Yeah , shade"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "49"
+          },
+          "start_time": {
+            "N": "40"
+          },
+          "text": {
+            "S": "it in my number line . I made a little"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "54"
+          },
+          "start_time": {
+            "N": "46"
+          },
+          "text": {
+            "S": "bit thicker line . Now at home you can do"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "57"
+          },
+          "start_time": {
+            "N": "51"
+          },
+          "text": {
+            "S": "some razzle dazzle graphs like this . Most people can't"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "60"
+          },
+          "start_time": {
+            "N": "55"
+          },
+          "text": {
+            "S": ". So how would you just write it out ?"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "63"
+          },
+          "start_time": {
+            "N": "57"
+          },
+          "text": {
+            "S": "It's simple like this . If you have a number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "67"
+          },
+          "start_time": {
+            "N": "60"
+          },
+          "text": {
+            "S": "line , hopefully straighter than that and I have the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "72"
+          },
+          "start_time": {
+            "N": "64"
+          },
+          "text": {
+            "S": "numbers 123 and I want to represent the region the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "75"
+          },
+          "start_time": {
+            "N": "69"
+          },
+          "text": {
+            "S": "span of values between one and three . All I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "76"
+          },
+          "start_time": {
+            "N": "72"
+          },
+          "text": {
+            "S": "need to do is just something like it's just shaded"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "80"
+          },
+          "start_time": {
+            "N": "73"
+          },
+          "text": {
+            "S": "and take a little bit thicker like that . Okay"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "87"
+          },
+          "start_time": {
+            "N": "78"
+          },
+          "text": {
+            "S": ", that's it . Now some professors make you do"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "90"
+          },
+          "start_time": {
+            "N": "84"
+          },
+          "text": {
+            "S": "the following instead of the little shaded region . They"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "95"
+          },
+          "start_time": {
+            "N": "87"
+          },
+          "text": {
+            "S": "make you do something like that . I hate that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "98"
+          },
+          "start_time": {
+            "N": "92"
+          },
+          "text": {
+            "S": ". I know don't , I mean if they insist"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "100"
+          },
+          "start_time": {
+            "N": "95"
+          },
+          "text": {
+            "S": "on it of course they're the boss . I'm just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "104"
+          },
+          "start_time": {
+            "N": "97"
+          },
+          "text": {
+            "S": "here to help you . But I personally feel that's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "107"
+          },
+          "start_time": {
+            "N": "101"
+          },
+          "text": {
+            "S": "a very poor notation . It's not very clear ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "111"
+          },
+          "start_time": {
+            "N": "105"
+          },
+          "text": {
+            "S": "The figure shaded region is very precise , very clear"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "113"
+          },
+          "start_time": {
+            "N": "108"
+          },
+          "text": {
+            "S": ". This is from here to here and there to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "118"
+          },
+          "start_time": {
+            "N": "110"
+          },
+          "text": {
+            "S": "there . Okay . Now what happens exactly at one"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "123"
+          },
+          "start_time": {
+            "N": "117"
+          },
+          "text": {
+            "S": "and three Are we including these values ? Were not"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "127"
+          },
+          "start_time": {
+            "N": "120"
+          },
+          "text": {
+            "S": "including it ? It's a little vague as it stands"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "130"
+          },
+          "start_time": {
+            "N": "124"
+          },
+          "text": {
+            "S": "even though we know this thicker part means everything between"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "134"
+          },
+          "start_time": {
+            "N": "127"
+          },
+          "text": {
+            "S": "them . Well , I want you to memorize this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "138"
+          },
+          "start_time": {
+            "N": "132"
+          },
+          "text": {
+            "S": ". It's a little table . Have a more detailed"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "143"
+          },
+          "start_time": {
+            "N": "135"
+          },
+          "text": {
+            "S": "version of this on the notes . But just in"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "144"
+          },
+          "start_time": {
+            "N": "140"
+          },
+          "text": {
+            "S": "a nutshell , this is what we need to do"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "151"
+          },
+          "start_time": {
+            "N": "142"
+          },
+          "text": {
+            "S": ". If you see on the test quiz or your"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "153"
+          },
+          "start_time": {
+            "N": "148"
+          },
+          "text": {
+            "S": "notes or books , these two symbols , the less"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "157"
+          },
+          "start_time": {
+            "N": "150"
+          },
+          "text": {
+            "S": "than or greater than symbols maybe doing something and if"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "160"
+          },
+          "start_time": {
+            "N": "154"
+          },
+          "text": {
+            "S": "you see the less than or equal to symbol or"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "162"
+          },
+          "start_time": {
+            "N": "157"
+          },
+          "text": {
+            "S": "the greater or equal to assemble into something else ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "167"
+          },
+          "start_time": {
+            "N": "160"
+          },
+          "text": {
+            "S": "Well what well on a number line . Okay ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "171"
+          },
+          "start_time": {
+            "N": "165"
+          },
+          "text": {
+            "S": "I'm going to throw in and opened up . Let's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "174"
+          },
+          "start_time": {
+            "N": "168"
+          },
+          "text": {
+            "S": "go ahead and laugh , raised that little part right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "176"
+          },
+          "start_time": {
+            "N": "171"
+          },
+          "text": {
+            "S": "there . Which you would also on your on your"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "181"
+          },
+          "start_time": {
+            "N": "173"
+          },
+          "text": {
+            "S": "test it these symbols of equality , it's equal ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "183"
+          },
+          "start_time": {
+            "N": "178"
+          },
+          "text": {
+            "S": "It can be the dots , it can be the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "186"
+          },
+          "start_time": {
+            "N": "180"
+          },
+          "text": {
+            "S": "value . Then we're going to represent that with a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "195"
+          },
+          "start_time": {
+            "N": "183"
+          },
+          "text": {
+            "S": "solid dot . Okay , next this is the graphing"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "198"
+          },
+          "start_time": {
+            "N": "192"
+          },
+          "text": {
+            "S": "notation . Okay , this round top here is inequality"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "202"
+          },
+          "start_time": {
+            "N": "196"
+          },
+          "text": {
+            "S": ". Now , how about interval notation ? Uh for"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "206"
+          },
+          "start_time": {
+            "N": "199"
+          },
+          "text": {
+            "S": "intervals wherever that is And we've talked about that yet"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "211"
+          },
+          "start_time": {
+            "N": "203"
+          },
+          "text": {
+            "S": "but we're going to be using parentheses to me an"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "214"
+          },
+          "start_time": {
+            "N": "208"
+          },
+          "text": {
+            "S": "open dot or less than and greater than symbol ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "219"
+          },
+          "start_time": {
+            "N": "211"
+          },
+          "text": {
+            "S": "We're gonna be using square brackets to represent the actual"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "222"
+          },
+          "start_time": {
+            "N": "216"
+          },
+          "text": {
+            "S": "value . It includes it . The dot's there ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "227"
+          },
+          "start_time": {
+            "N": "220"
+          },
+          "text": {
+            "S": "D equal . Yeah . Now there's one other thing"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "232"
+          },
+          "start_time": {
+            "N": "224"
+          },
+          "text": {
+            "S": "when you raise a part of this right here with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "235"
+          },
+          "start_time": {
+            "N": "229"
+          },
+          "text": {
+            "S": "interval notation , a value can go on forever ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "241"
+          },
+          "start_time": {
+            "N": "234"
+          },
+          "text": {
+            "S": "Much like these reviews most kids . If a value"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "245"
+          },
+          "start_time": {
+            "N": "238"
+          },
+          "text": {
+            "S": "goes forever definitely to the negative values , you say"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "250"
+          },
+          "start_time": {
+            "N": "242"
+          },
+          "text": {
+            "S": "it goes to negative infinity . If the value goes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "252"
+          },
+          "start_time": {
+            "N": "247"
+          },
+          "text": {
+            "S": "forever to the right to the positive values , you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "255"
+          },
+          "start_time": {
+            "N": "249"
+          },
+          "text": {
+            "S": "say it's positive infinity . But for positive affinity you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "261"
+          },
+          "start_time": {
+            "N": "252"
+          },
+          "text": {
+            "S": "don't put the plus I just say infinity . Yeah"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "265"
+          },
+          "start_time": {
+            "N": "259"
+          },
+          "text": {
+            "S": ". And when you use the infinity symbols you must"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "271"
+          },
+          "start_time": {
+            "N": "262"
+          },
+          "text": {
+            "S": "use always always always parenthesis . Okay . And professors"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "273"
+          },
+          "start_time": {
+            "N": "268"
+          },
+          "text": {
+            "S": "are just waiting for you to put a bracket ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "277"
+          },
+          "start_time": {
+            "N": "270"
+          },
+          "text": {
+            "S": "square bracket like this on an infinity . Don't go"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "283"
+          },
+          "start_time": {
+            "N": "274"
+          },
+          "text": {
+            "S": "there . Yeah . So yeah , this is a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "285"
+          },
+          "start_time": {
+            "N": "280"
+          },
+          "text": {
+            "S": "very handy little chart . Let's actually leave that there"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "288"
+          },
+          "start_time": {
+            "N": "282"
+          },
+          "text": {
+            "S": "for now for the remainder of the session in case"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "295"
+          },
+          "start_time": {
+            "N": "285"
+          },
+          "text": {
+            "S": "we need it . There is a very sophisticated table"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "298"
+          },
+          "start_time": {
+            "N": "292"
+          },
+          "text": {
+            "S": "of information that I really want to take the time"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "301"
+          },
+          "start_time": {
+            "N": "295"
+          },
+          "text": {
+            "S": "to look over and memorize the best of our abilities"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "302"
+          },
+          "start_time": {
+            "N": "298"
+          },
+          "text": {
+            "S": ". And I don't mean memorize word for word ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "308"
+          },
+          "start_time": {
+            "N": "299"
+          },
+          "text": {
+            "S": "but just what do the graphs of the number lines"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "311"
+          },
+          "start_time": {
+            "N": "306"
+          },
+          "text": {
+            "S": "look like or associated with the interval notation , which"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "317"
+          },
+          "start_time": {
+            "N": "308"
+          },
+          "text": {
+            "S": "is another column versus inequality and set notation . It's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "320"
+          },
+          "start_time": {
+            "N": "314"
+          },
+          "text": {
+            "S": "all laid out there and also tell you how to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "323"
+          },
+          "start_time": {
+            "N": "317"
+          },
+          "text": {
+            "S": "read . Obviously if you're writing a test , you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "325"
+          },
+          "start_time": {
+            "N": "320"
+          },
+          "text": {
+            "S": "don't read out the questions , you don't read out"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "327"
+          },
+          "start_time": {
+            "N": "322"
+          },
+          "text": {
+            "S": "the rotation , but it's good to know how to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "329"
+          },
+          "start_time": {
+            "N": "324"
+          },
+          "text": {
+            "S": "do in case you have to talk over the phone"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "331"
+          },
+          "start_time": {
+            "N": "326"
+          },
+          "text": {
+            "S": "or you're discussing a class with your professor ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197400/60.jpg"
+          },
+          "summary": {
+            "S": "All I need to do is just oh, something like this.\nThat represents a span of numbers.\nYeah, shade it in my number line.\n interval inequality and set notation.\nIts simple like this.\nMost people ca nt.\nI made a little bit thicker line.\n"
+          },
+          "time": {
+            "S": "60"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197400/127.jpg"
+          },
+          "summary": {
+            "S": "All I need to do is just something like its just shaded and take a little bit thicker like that.\nIts not very clear.\nOkay, thats it.\n numbers 123 and I want to represent the region the span of values between one and three.\nI know do nt, I mean if they insist on it of course theyre the boss.\n"
+          },
+          "time": {
+            "S": "127"
+          },
+          "Title": {
+            "S": "Shaded number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197400/192.jpg"
+          },
+          "summary": {
+            "S": "Which you would also on your on your test it these symbols of equality, its equal.\nBut just in a nutshell, this is what we need to do.\nLets go ahead and laugh, raised that little part right there.\nIts a little table.\n"
+          },
+          "time": {
+            "S": "192"
+          },
+          "Title": {
+            "S": "Symbols"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197400/259.jpg"
+          },
+          "summary": {
+            "S": "If the value goes forever to the right to the positive values, you say its positive infinity.\nNow, how about interval notation?\nUh for intervals wherever that is And weve talked about that yet but were going to be using parentheses to me an open dot or less than and greater than symbol.\n"
+          },
+          "time": {
+            "S": "259"
+          },
+          "Title": {
+            "S": "Positive infinity"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197400/324.jpg"
+          },
+          "summary": {
+            "S": "There is a very sophisticated table of information that I really want to take the time to look over and memorize the best of our abilities.\nAnd professors are just waiting for you to put a bracket, square bracket like this on an infinity.\nYeah.\nDo nt go there.\n"
+          },
+          "time": {
+            "S": "324"
+          },
+          "Title": {
+            "S": "Memorize"
+          }
+        }
+      }
+    ]
+  }
+}

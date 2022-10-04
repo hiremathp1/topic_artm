@@ -1,0 +1,668 @@
+{
+  "VideoID": {
+    "S": "VID_3197403"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "9"
+          },
+          "start_time": {
+            "N": "2"
+          },
+          "text": {
+            "S": "A number is less than another number . It's point"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "12"
+          },
+          "start_time": {
+            "N": "6"
+          },
+          "text": {
+            "S": "on a number line is to the left of the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "16"
+          },
+          "start_time": {
+            "N": "9"
+          },
+          "text": {
+            "S": "point of the other number . So in this case"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "24"
+          },
+          "start_time": {
+            "N": "13"
+          },
+          "text": {
+            "S": "I can say A . Is less than B ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "28"
+          },
+          "start_time": {
+            "N": "22"
+          },
+          "text": {
+            "S": "The beauty mathematics . I don't want to keep writing"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "31"
+          },
+          "start_time": {
+            "N": "25"
+          },
+          "text": {
+            "S": "is less than all the time . We have symbols"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "39"
+          },
+          "start_time": {
+            "N": "28"
+          },
+          "text": {
+            "S": "for that . Uh Is less than the A ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "42"
+          },
+          "start_time": {
+            "N": "36"
+          },
+          "text": {
+            "S": "Number is greater than another number . If its point"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "45"
+          },
+          "start_time": {
+            "N": "39"
+          },
+          "text": {
+            "S": "on a number line is to the right of another"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "50"
+          },
+          "start_time": {
+            "N": "42"
+          },
+          "text": {
+            "S": "number . In this case A considered greater than B"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "53"
+          },
+          "start_time": {
+            "N": "48"
+          },
+          "text": {
+            "S": ". I switched them around . I still want to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "56"
+          },
+          "start_time": {
+            "N": "50"
+          },
+          "text": {
+            "S": "say a first and that's why I switched so again"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "58"
+          },
+          "start_time": {
+            "N": "53"
+          },
+          "text": {
+            "S": "I can write the words out . A . Is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "61"
+          },
+          "start_time": {
+            "N": "55"
+          },
+          "text": {
+            "S": "greater than B . But again we have symbols for"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "68"
+          },
+          "start_time": {
+            "N": "58"
+          },
+          "text": {
+            "S": "that . A . Is greater . Andy Now here's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "72"
+          },
+          "start_time": {
+            "N": "65"
+          },
+          "text": {
+            "S": "a hot tip . It's kind of easy at first"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "76"
+          },
+          "start_time": {
+            "N": "69"
+          },
+          "text": {
+            "S": "to confuse the symbol . Which one should you right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "79"
+          },
+          "start_time": {
+            "N": "74"
+          },
+          "text": {
+            "S": "when you're writing down numbers , which one's the last"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "81"
+          },
+          "start_time": {
+            "N": "76"
+          },
+          "text": {
+            "S": "time ? Which is greater than very easy to figure"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "87"
+          },
+          "start_time": {
+            "N": "78"
+          },
+          "text": {
+            "S": "that out . Here's a tip . The word less"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "90"
+          },
+          "start_time": {
+            "N": "84"
+          },
+          "text": {
+            "S": "than you . Look at that . Look at the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "92"
+          },
+          "start_time": {
+            "N": "87"
+          },
+          "text": {
+            "S": "L . Here , I can make that like less"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "98"
+          },
+          "start_time": {
+            "N": "89"
+          },
+          "text": {
+            "S": "than symbol . Uh huh . Also here's a little"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "101"
+          },
+          "start_time": {
+            "N": "95"
+          },
+          "text": {
+            "S": "something I learned when I was in grade school ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "105"
+          },
+          "start_time": {
+            "N": "99"
+          },
+          "text": {
+            "S": "If you have two numbers , let's say three and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "109"
+          },
+          "start_time": {
+            "N": "102"
+          },
+          "text": {
+            "S": "five And I want to say three Is less than"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "113"
+          },
+          "start_time": {
+            "N": "106"
+          },
+          "text": {
+            "S": "five . Okay . I want to use this symbol"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "116"
+          },
+          "start_time": {
+            "N": "110"
+          },
+          "text": {
+            "S": "because I'm gonna pretend this is like a little bird"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "119"
+          },
+          "start_time": {
+            "N": "114"
+          },
+          "text": {
+            "S": "and the birdie always wants to eat the bigger amount"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "122"
+          },
+          "start_time": {
+            "N": "116"
+          },
+          "text": {
+            "S": "of food . He wants a bunch on the five"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "125"
+          },
+          "start_time": {
+            "N": "119"
+          },
+          "text": {
+            "S": "here and that's kind of cute seeing stuff . But"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "129"
+          },
+          "start_time": {
+            "N": "123"
+          },
+          "text": {
+            "S": "it works . I just make sure you don't actually"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "134"
+          },
+          "start_time": {
+            "N": "126"
+          },
+          "text": {
+            "S": "draw the bird on the test . Okay . It"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "137"
+          },
+          "start_time": {
+            "N": "131"
+          },
+          "text": {
+            "S": "works the other way around . If I have two"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "140"
+          },
+          "start_time": {
+            "N": "135"
+          },
+          "text": {
+            "S": "greater than one , you see again the birdies is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "145"
+          },
+          "start_time": {
+            "N": "137"
+          },
+          "text": {
+            "S": "going to eat the bigger amount of food . That's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "152"
+          },
+          "start_time": {
+            "N": "142"
+          },
+          "text": {
+            "S": "something might help you out memorize this . in your"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "155"
+          },
+          "start_time": {
+            "N": "149"
+          },
+          "text": {
+            "S": "notes . There is a small table of different symbols"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "159"
+          },
+          "start_time": {
+            "N": "152"
+          },
+          "text": {
+            "S": "that compare one value of another equals not equals approximately"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "164"
+          },
+          "start_time": {
+            "N": "156"
+          },
+          "text": {
+            "S": "equals and so on . Do take the time to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "167"
+          },
+          "start_time": {
+            "N": "161"
+          },
+          "text": {
+            "S": "read through this . There's no really sense of putting"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "169"
+          },
+          "start_time": {
+            "N": "164"
+          },
+          "text": {
+            "S": "on the board here because they're right there in the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "175"
+          },
+          "start_time": {
+            "N": "166"
+          },
+          "text": {
+            "S": "notes . And you need to memorize these notations and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "176"
+          },
+          "start_time": {
+            "N": "172"
+          },
+          "text": {
+            "S": "it will help you out in the math class ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197403/28.jpg"
+          },
+          "summary": {
+            "S": " A number is less than another number.\nThe beauty mathematics.\nSo in this case I can say A.\nI do nt want to keep writing is less than all the time.\nIs less than B.\nIts point on a number line is to the left of the point of the other number.\n"
+          },
+          "time": {
+            "S": "28"
+          },
+          "Title": {
+            "S": "Number"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197403/65.jpg"
+          },
+          "summary": {
+            "S": "Is greater than B.\nA.\nIf its point on a number line is to the right of another number.\nI switched them around.\nBut again we have symbols for that.\nI still want to say a first and thats why I switched so again I can write the words out.\n"
+          },
+          "time": {
+            "S": "65"
+          },
+          "Title": {
+            "S": "Greater than"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197403/99.jpg"
+          },
+          "summary": {
+            "S": "Here, I can make that like less than symbol.\nLook at the L.\nWhich one should you right when youre writing down numbers, which ones the last time?\nUh huh.\nThe word less than you.\nHeres a tip.\n to confuse the symbol.\n"
+          },
+          "time": {
+            "S": "99"
+          },
+          "Title": {
+            "S": "Less than"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197403/135.jpg"
+          },
+          "summary": {
+            "S": "Okay.\nI want to use this symbol because I m gon na pretend this is like a little bird and the birdie always wants to eat the bigger amount of food.\nBut it works.\nI just make sure you do nt actually draw the bird on the test.\n"
+          },
+          "time": {
+            "S": "135"
+          },
+          "Title": {
+            "S": "Symbol"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197403/166.jpg"
+          },
+          "summary": {
+            "S": " going to eat the bigger amount of food.\nThats something might help you out memorize this.\nin your notes.\nThere is a small table of different symbols that compare one value of another equals not equals approximately equals and so on.\nDo take the time to read through this.\n"
+          },
+          "time": {
+            "S": "166"
+          },
+          "Title": {
+            "S": "Hot Tip"
+          }
+        }
+      }
+    ]
+  }
+}

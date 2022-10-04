@@ -1,0 +1,512 @@
+{
+  "VideoID": {
+    "S": "VID_3199686"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "9"
+          },
+          "start_time": {
+            "N": "2"
+          },
+          "text": {
+            "S": "on the calculator right at this time let's bring out"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "12"
+          },
+          "start_time": {
+            "N": "6"
+          },
+          "text": {
+            "S": "calculators and learn a little bit about how to input"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "16"
+          },
+          "start_time": {
+            "N": "9"
+          },
+          "text": {
+            "S": "are different types of numbers in here . Okay ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "21"
+          },
+          "start_time": {
+            "N": "14"
+          },
+          "text": {
+            "S": "so I have this many cut out of The TI"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "28"
+          },
+          "start_time": {
+            "N": "18"
+          },
+          "text": {
+            "S": "84 plus over different calculator to illustrate this . First"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "30"
+          },
+          "start_time": {
+            "N": "25"
+          },
+          "text": {
+            "S": "off , if you want to just type in natural"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "32"
+          },
+          "start_time": {
+            "N": "27"
+          },
+          "text": {
+            "S": "numbers , all you really need to do is just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "35"
+          },
+          "start_time": {
+            "N": "29"
+          },
+          "text": {
+            "S": "type any of the number keys . That's pretty ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "38"
+          },
+          "start_time": {
+            "N": "32"
+          },
+          "text": {
+            "S": "pretty straightforward , pretty easy . Okay , if you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "41"
+          },
+          "start_time": {
+            "N": "35"
+          },
+          "text": {
+            "S": "want to include whole numbers and make sure of course"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "44"
+          },
+          "start_time": {
+            "N": "38"
+          },
+          "text": {
+            "S": "you count zero . Obviously we use zero for some"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "49"
+          },
+          "start_time": {
+            "N": "41"
+          },
+          "text": {
+            "S": "natural numbers like 10 . 10 Okay . Industries would"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "53"
+          },
+          "start_time": {
+            "N": "46"
+          },
+          "text": {
+            "S": "be the same thing but we have an additional key"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "57"
+          },
+          "start_time": {
+            "N": "50"
+          },
+          "text": {
+            "S": "to work with and that would be the negation negative"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "60"
+          },
+          "start_time": {
+            "N": "54"
+          },
+          "text": {
+            "S": "key . It's right down here . A big warning"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "65"
+          },
+          "start_time": {
+            "N": "57"
+          },
+          "text": {
+            "S": ". Make sure you don't confuse this negation key with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "68"
+          },
+          "start_time": {
+            "N": "62"
+          },
+          "text": {
+            "S": "the subtraction key over here . Alright . There are"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "75"
+          },
+          "start_time": {
+            "N": "65"
+          },
+          "text": {
+            "S": "different if you get an error on the screen syntax"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "81"
+          },
+          "start_time": {
+            "N": "72"
+          },
+          "text": {
+            "S": "Earth you press around it . Okay With rational numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "84"
+          },
+          "start_time": {
+            "N": "78"
+          },
+          "text": {
+            "S": ". What we're going to do is you can put"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "86"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": "all your number of keys again but also now you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "91"
+          },
+          "start_time": {
+            "N": "83"
+          },
+          "text": {
+            "S": "have your division key to represent fractions . So if"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "97"
+          },
+          "start_time": {
+            "N": "88"
+          },
+          "text": {
+            "S": "I want to put for example three , divide by"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "103"
+          },
+          "start_time": {
+            "N": "94"
+          },
+          "text": {
+            "S": "five in the calculator we're just type in three ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "107"
+          },
+          "start_time": {
+            "N": "101"
+          },
+          "text": {
+            "S": "Divide by five of course press enter . So it's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "110"
+          },
+          "start_time": {
+            "N": "104"
+          },
+          "text": {
+            "S": "a good habit . Always actually also use the clear"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "113"
+          },
+          "start_time": {
+            "N": "107"
+          },
+          "text": {
+            "S": "key that's up here to clear the display before you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "120"
+          },
+          "start_time": {
+            "N": "110"
+          },
+          "text": {
+            "S": "do your math operations . The answer for a rational"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "125"
+          },
+          "start_time": {
+            "N": "117"
+          },
+          "text": {
+            "S": "number is always a decimal at first . Mhm We"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "128"
+          },
+          "start_time": {
+            "N": "122"
+          },
+          "text": {
+            "S": "learn how to convert fractions to decimals and decimals to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "133"
+          },
+          "start_time": {
+            "N": "125"
+          },
+          "text": {
+            "S": "fractions in more detail in the lesson that is titled"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "135"
+          },
+          "start_time": {
+            "N": "130"
+          },
+          "text": {
+            "S": "fractions so we'll learn more about ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199686/18.jpg"
+          },
+          "summary": {
+            "S": " on the calculator right at this time lets bring out calculators and learn a little bit about how to input are different types of numbers in here.\n"
+          },
+          "time": {
+            "S": "18"
+          },
+          "Title": {
+            "S": " on the Calculator"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199686/50.jpg"
+          },
+          "summary": {
+            "S": "Okay, if you want to include whole numbers and make sure of course you count zero.\nThats pretty, pretty straightforward, pretty easy.\nObviously we use zero for some natural numbers like 10.\n off, if you want to just type in natural numbers, all you really need to do is just type any of the number keys.\n"
+          },
+          "time": {
+            "S": "50"
+          },
+          "Title": {
+            "S": "Whole numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199686/72.jpg"
+          },
+          "summary": {
+            "S": " key.\nIts right down here.\nA big warning.\nAlright.\nMake sure you do nt confuse this negation key with the subtraction key over here.\n"
+          },
+          "time": {
+            "S": "72"
+          },
+          "Title": {
+            "S": "Negation Key"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199686/101.jpg"
+          },
+          "summary": {
+            "S": "What were going to do is you can put all your number of keys again but also now you have your division key to represent fractions.\n"
+          },
+          "time": {
+            "S": "101"
+          },
+          "Title": {
+            "S": "Division"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199686/125.jpg"
+          },
+          "summary": {
+            "S": " a good habit.\nAlways actually also use the clear key thats up here to clear the display before you do your math operations.\nThe answer for a rational number is always a decimal at first.\n"
+          },
+          "time": {
+            "S": "125"
+          },
+          "Title": {
+            "S": "Fractions"
+          }
+        }
+      }
+    ]
+  }
+}

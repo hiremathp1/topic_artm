@@ -1,0 +1,239 @@
+{
+  "VideoID": {
+    "S": "VID_3199694"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "8"
+          },
+          "start_time": {
+            "N": "-1"
+          },
+          "text": {
+            "S": "Whole numbers The national numbers are fine for counting ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "12"
+          },
+          "start_time": {
+            "N": "5"
+          },
+          "text": {
+            "S": "but we're missing a very special number , which we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "15"
+          },
+          "start_time": {
+            "N": "9"
+          },
+          "text": {
+            "S": "need to take in consideration . That Is the number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "19"
+          },
+          "start_time": {
+            "N": "12"
+          },
+          "text": {
+            "S": "zero right there . And of course it has its"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "24"
+          },
+          "start_time": {
+            "N": "16"
+          },
+          "text": {
+            "S": "corresponding point on the real number line . This collection"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "27"
+          },
+          "start_time": {
+            "N": "21"
+          },
+          "text": {
+            "S": "of numbers are called the whole numbers . This is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "30"
+          },
+          "start_time": {
+            "N": "24"
+          },
+          "text": {
+            "S": "the math symbol for it . zero is the smallest"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "32"
+          },
+          "start_time": {
+            "N": "27"
+          },
+          "text": {
+            "S": "hole number that you can have be aware of that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "35"
+          },
+          "start_time": {
+            "N": "30"
+          },
+          "text": {
+            "S": ". There is no largest hole number . This goes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "39"
+          },
+          "start_time": {
+            "N": "32"
+          },
+          "text": {
+            "S": "on forever and ever . Yeah . Oh , sorry"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "2"
+          },
+          "start_time": {
+            "N": "-1"
+          },
+          "text": {
+            "S": "."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199694/-1.jpg"
+          },
+          "summary": {
+            "S": "N"
+          },
+          "time": {
+            "S": "-1"
+          },
+          "Title": {
+            "S": "N"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199694/12.jpg"
+          },
+          "summary": {
+            "S": " but were missing a very special number, which we need to take in consideration.\n"
+          },
+          "time": {
+            "S": "12"
+          },
+          "Title": {
+            "S": " but were"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199694/16.jpg"
+          },
+          "summary": {
+            "S": "Cant generate summary"
+          },
+          "time": {
+            "S": "16"
+          },
+          "Title": {
+            "S": "Cant generate summary"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199694/27.jpg"
+          },
+          "summary": {
+            "S": " of numbers are called the whole numbers.\nThis is the math symbol for it.\n"
+          },
+          "time": {
+            "S": "27"
+          },
+          "Title": {
+            "S": " of numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199694/32.jpg"
+          },
+          "summary": {
+            "S": "There is no largest hole number.\n"
+          },
+          "time": {
+            "S": "32"
+          },
+          "Title": {
+            "S": "There is no"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "VideoID": {
+    "S": "VID_3197406"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "7"
+          },
+          "start_time": {
+            "N": "0"
+          },
+          "text": {
+            "S": "unless in to quiz , there is a table where"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "10"
+          },
+          "start_time": {
+            "N": "4"
+          },
+          "text": {
+            "S": "I asked you to fill it in the different blocks"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "13"
+          },
+          "start_time": {
+            "N": "7"
+          },
+          "text": {
+            "S": "of what's interval inequality , the graph set notation ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "15"
+          },
+          "start_time": {
+            "N": "10"
+          },
+          "text": {
+            "S": "all that stuff . And this is the first problem"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "18"
+          },
+          "start_time": {
+            "N": "12"
+          },
+          "text": {
+            "S": ". If you're given just a number line with this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "22"
+          },
+          "start_time": {
+            "N": "15"
+          },
+          "text": {
+            "S": "on it , it's open dot With the six and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "25"
+          },
+          "start_time": {
+            "N": "19"
+          },
+          "text": {
+            "S": "it's shaded toward the left forever . What would the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "30"
+          },
+          "start_time": {
+            "N": "22"
+          },
+          "text": {
+            "S": "interval inequality sanitation be for this situation ? Well ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "31"
+          },
+          "start_time": {
+            "N": "27"
+          },
+          "text": {
+            "S": "if you have the number line , the rest is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "34"
+          },
+          "start_time": {
+            "N": "28"
+          },
+          "text": {
+            "S": "easy interpretation . Again , using a little chart here"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "38"
+          },
+          "start_time": {
+            "N": "31"
+          },
+          "text": {
+            "S": "to help us out here we go from left to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "41"
+          },
+          "start_time": {
+            "N": "35"
+          },
+          "text": {
+            "S": "right on the left . Well this goes forever that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "45"
+          },
+          "start_time": {
+            "N": "38"
+          },
+          "text": {
+            "S": "way . So it's going to negative infinity . So"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "49"
+          },
+          "start_time": {
+            "N": "43"
+          },
+          "text": {
+            "S": "I want to start off by writing negative affinity and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "55"
+          },
+          "start_time": {
+            "N": "46"
+          },
+          "text": {
+            "S": "again always use parentheses , never square bracket color and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "57"
+          },
+          "start_time": {
+            "N": "52"
+          },
+          "text": {
+            "S": "again from left to right . It stopped at six"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "62"
+          },
+          "start_time": {
+            "N": "56"
+          },
+          "text": {
+            "S": "but it does not include it . It's infinitely close"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "65"
+          },
+          "start_time": {
+            "N": "59"
+          },
+          "text": {
+            "S": "to six but never quite gets there . So that's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "67"
+          },
+          "start_time": {
+            "N": "62"
+          },
+          "text": {
+            "S": "why it's open dot . And again we use parentheses"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "72"
+          },
+          "start_time": {
+            "N": "64"
+          },
+          "text": {
+            "S": "for that . Once you have the interpretation inequality notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "74"
+          },
+          "start_time": {
+            "N": "69"
+          },
+          "text": {
+            "S": "is pretty easy . What you need to do is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "79"
+          },
+          "start_time": {
+            "N": "71"
+          },
+          "text": {
+            "S": "realize that this shaded region represents my Xs . So"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "82"
+          },
+          "start_time": {
+            "N": "76"
+          },
+          "text": {
+            "S": "what is the value of all these access while my"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "86"
+          },
+          "start_time": {
+            "N": "79"
+          },
+          "text": {
+            "S": "exes are all less than See that they're all less"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "88"
+          },
+          "start_time": {
+            "N": "83"
+          },
+          "text": {
+            "S": "than six . If there are greater than six there"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "91"
+          },
+          "start_time": {
+            "N": "85"
+          },
+          "text": {
+            "S": "too . Right ? So I'm going to use those"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "96"
+          },
+          "start_time": {
+            "N": "88"
+          },
+          "text": {
+            "S": ", put those words into notation . My exes are"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "99"
+          },
+          "start_time": {
+            "N": "93"
+          },
+          "text": {
+            "S": "less than six . They don't include six because it's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "102"
+          },
+          "start_time": {
+            "N": "96"
+          },
+          "text": {
+            "S": "an open night . And once you have any qualification"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "104"
+          },
+          "start_time": {
+            "N": "99"
+          },
+          "text": {
+            "S": ", the set notation just falls right into place ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "107"
+          },
+          "start_time": {
+            "N": "102"
+          },
+          "text": {
+            "S": "It's going to be the set of all X values"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "113"
+          },
+          "start_time": {
+            "N": "104"
+          },
+          "text": {
+            "S": "such that X is less than six promised them ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197406/15.jpg"
+          },
+          "summary": {
+            "S": "And this is the first problem.\n unless in to quiz, there is a table where I asked you to fill it in the different blocks of whats interval inequality, the graph set notation, all that stuff.\n"
+          },
+          "time": {
+            "S": "15"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197406/38.jpg"
+          },
+          "summary": {
+            "S": " its shaded toward the left forever.\nWhat would the interval inequality set notation be for this situation?\nWell, if you have the number line, the rest is easy interpretation.\nAgain, using a little chart here to help us out here we go from left to right on the left.\n"
+          },
+          "time": {
+            "S": "38"
+          },
+          "Title": {
+            "S": "Towards left"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197406/59.jpg"
+          },
+          "summary": {
+            "S": " I want to start off by writing negative infinity and again always use parentheses, never square bracket color and again from left to right.\nIt stopped at six but it does not include it.\n"
+          },
+          "time": {
+            "S": "59"
+          },
+          "Title": {
+            "S": "Interval notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197406/79.jpg"
+          },
+          "summary": {
+            "S": "Once you have the interpretation inequality notation is pretty easy.\n why its open dot.\nAnd again we use parentheses for that.\nWhat you need to do is realize that this shaded region represents my Xs.\n"
+          },
+          "time": {
+            "S": "79"
+          },
+          "Title": {
+            "S": "Inequality notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197406/102.jpg"
+          },
+          "summary": {
+            "S": " than six.\nRight?\nSo I m going to use those, put those words into notation.\nThey do nt include six because its an open night.\nAnd once you have any qualification, the set notation just falls right into place.\nIf there are greater than six there too.\n"
+          },
+          "time": {
+            "S": "102"
+          },
+          "Title": {
+            "S": "Set notation"
+          }
+        }
+      }
+    ]
+  }
+}

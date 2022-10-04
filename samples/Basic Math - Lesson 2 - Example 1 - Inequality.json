@@ -1,0 +1,785 @@
+{
+  "VideoID": {
+    "S": "VID_3197398"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "8"
+          },
+          "start_time": {
+            "N": "1"
+          },
+          "text": {
+            "S": "Let's look at this interval right here on a number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "9"
+          },
+          "start_time": {
+            "N": "5"
+          },
+          "text": {
+            "S": "line , we have an A G three . We"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "11"
+          },
+          "start_time": {
+            "N": "6"
+          },
+          "text": {
+            "S": "have a one . We have a solid dot here"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "13"
+          },
+          "start_time": {
+            "N": "8"
+          },
+          "text": {
+            "S": "and open dot here . And I'd like to create"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "18"
+          },
+          "start_time": {
+            "N": "10"
+          },
+          "text": {
+            "S": "what's the interval inequality and set notation for this number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "23"
+          },
+          "start_time": {
+            "N": "15"
+          },
+          "text": {
+            "S": "line representation . How can we do that ? Well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "24"
+          },
+          "start_time": {
+            "N": "20"
+          },
+          "text": {
+            "S": ", this is where this little table comes in handy"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "28"
+          },
+          "start_time": {
+            "N": "22"
+          },
+          "text": {
+            "S": ". Okay , for interval notation , the keys again"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "31"
+          },
+          "start_time": {
+            "N": "25"
+          },
+          "text": {
+            "S": "to go from left to right , I see a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "35"
+          },
+          "start_time": {
+            "N": "28"
+          },
+          "text": {
+            "S": "negative three somewhere , write that down actually , let's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "40"
+          },
+          "start_time": {
+            "N": "32"
+          },
+          "text": {
+            "S": "go over here . There's a solid dot . That"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "46"
+          },
+          "start_time": {
+            "N": "37"
+          },
+          "text": {
+            "S": "means according to this , we use for brackets ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "56"
+          },
+          "start_time": {
+            "N": "50"
+          },
+          "text": {
+            "S": "So we started narrator three and we're gonna stop at"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "60"
+          },
+          "start_time": {
+            "N": "53"
+          },
+          "text": {
+            "S": "one . Now , what happens at one ? Well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "63"
+          },
+          "start_time": {
+            "N": "57"
+          },
+          "text": {
+            "S": ", it's an open dot , open circle . So"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "68"
+          },
+          "start_time": {
+            "N": "60"
+          },
+          "text": {
+            "S": "open circles are apprentices over here , so , And"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "72"
+          },
+          "start_time": {
+            "N": "65"
+          },
+          "text": {
+            "S": "that's all you gotta do . That's pretty easy inequality"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "78"
+          },
+          "start_time": {
+            "N": "71"
+          },
+          "text": {
+            "S": ". Well , I for this I have to let"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "83"
+          },
+          "start_time": {
+            "N": "75"
+          },
+          "text": {
+            "S": "this shaded region be represented by some variable . Let's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "85"
+          },
+          "start_time": {
+            "N": "80"
+          },
+          "text": {
+            "S": "call it X . So if this little piece right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "91"
+          },
+          "start_time": {
+            "N": "82"
+          },
+          "text": {
+            "S": "here is X . My exes are in between negative"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "97"
+          },
+          "start_time": {
+            "N": "88"
+          },
+          "text": {
+            "S": "three and 1 But include -3 . So if X"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "99"
+          },
+          "start_time": {
+            "N": "94"
+          },
+          "text": {
+            "S": "is in between two values , this is how I'm"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "101"
+          },
+          "start_time": {
+            "N": "96"
+          },
+          "text": {
+            "S": "gonna write that out . The exile . Put that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "104"
+          },
+          "start_time": {
+            "N": "98"
+          },
+          "text": {
+            "S": "like in the middle here , Here's my negative three"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "108"
+          },
+          "start_time": {
+            "N": "101"
+          },
+          "text": {
+            "S": "and here's my one . Okay . And what's the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "111"
+          },
+          "start_time": {
+            "N": "105"
+          },
+          "text": {
+            "S": "deal with these little symbols ? Well , again ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "117"
+          },
+          "start_time": {
+            "N": "108"
+          },
+          "text": {
+            "S": "according to my little table right behind me , this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "120"
+          },
+          "start_time": {
+            "N": "114"
+          },
+          "text": {
+            "S": "negatory includes the point . So I'm going to go"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "126"
+          },
+          "start_time": {
+            "N": "117"
+          },
+          "text": {
+            "S": "less than or equal to and here it does not"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "127"
+          },
+          "start_time": {
+            "N": "123"
+          },
+          "text": {
+            "S": "include the one . So I'm just going to say"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "131"
+          },
+          "start_time": {
+            "N": "124"
+          },
+          "text": {
+            "S": "less than and again , I want to stress that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "133"
+          },
+          "start_time": {
+            "N": "128"
+          },
+          "text": {
+            "S": "with this . What I like to call in between"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "136"
+          },
+          "start_time": {
+            "N": "130"
+          },
+          "text": {
+            "S": "notation , it's always less less that could be less"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "138"
+          },
+          "start_time": {
+            "N": "133"
+          },
+          "text": {
+            "S": "than equal to or equal to . But you never"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "141"
+          },
+          "start_time": {
+            "N": "135"
+          },
+          "text": {
+            "S": "put a greater than symbol . In fact , later"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "143"
+          },
+          "start_time": {
+            "N": "138"
+          },
+          "text": {
+            "S": "on in another lesson , we would encounter situation where"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "146"
+          },
+          "start_time": {
+            "N": "140"
+          },
+          "text": {
+            "S": "they do become greater than then what Well you'll find"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "152"
+          },
+          "start_time": {
+            "N": "143"
+          },
+          "text": {
+            "S": "out . But this is the solution for inequality notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "154"
+          },
+          "start_time": {
+            "N": "149"
+          },
+          "text": {
+            "S": ". Now . What about set notation ? Well ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "159"
+          },
+          "start_time": {
+            "N": "151"
+          },
+          "text": {
+            "S": "the key thing is segmentation is very much like inequality"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "163"
+          },
+          "start_time": {
+            "N": "156"
+          },
+          "text": {
+            "S": ". All I need to do really is include the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "166"
+          },
+          "start_time": {
+            "N": "160"
+          },
+          "text": {
+            "S": "braces . So the set notation would be something like"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "171"
+          },
+          "start_time": {
+            "N": "163"
+          },
+          "text": {
+            "S": "this . The set of all access . Such that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "173"
+          },
+          "start_time": {
+            "N": "168"
+          },
+          "text": {
+            "S": ". That's what the rest of the vertical bar means"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "176"
+          },
+          "start_time": {
+            "N": "170"
+          },
+          "text": {
+            "S": ". Such that . And then I pretty much copy"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "179"
+          },
+          "start_time": {
+            "N": "173"
+          },
+          "text": {
+            "S": "this down . All right , let's do that ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "185"
+          },
+          "start_time": {
+            "N": "177"
+          },
+          "text": {
+            "S": "We'll have 93 is less than or equal to X"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "187"
+          },
+          "start_time": {
+            "N": "182"
+          },
+          "text": {
+            "S": ". is less than one . But you don't really"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "190"
+          },
+          "start_time": {
+            "N": "184"
+          },
+          "text": {
+            "S": "say it that way . How do we read this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "192"
+          },
+          "start_time": {
+            "N": "187"
+          },
+          "text": {
+            "S": "? We say it's the set of all X ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "194"
+          },
+          "start_time": {
+            "N": "189"
+          },
+          "text": {
+            "S": "Such that X is in between negative three and one"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "196"
+          },
+          "start_time": {
+            "N": "191"
+          },
+          "text": {
+            "S": "and includes negative three ."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197398/32.jpg"
+          },
+          "summary": {
+            "S": " Lets look at this interval right here on a number line, we have an A G three.\nHow can we do that?\nWell, this is where this little table comes in handy.\nAnd I d like to create whats the interval inequality and set notation for this number line representation.\n"
+          },
+          "time": {
+            "S": "32"
+          },
+          "Title": {
+            "S": "Interval"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197398/71.jpg"
+          },
+          "summary": {
+            "S": "So we started negative three and were gonna stop at one.\nWell, its an open dot, open circle.\n means according to this, we use for brackets.\nSo open circles are apprentices over here, so, And thats all you got ta do.\n"
+          },
+          "time": {
+            "S": "71"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197398/108.jpg"
+          },
+          "summary": {
+            "S": "So if this little piece right here is X.\nMy exes are in between negative three and 1 But include -3.\nThe exile.\nOkay.\nAnd whats the deal with these little symbols?\n this shaded region be represented by some variable.\nLets call it X.\n"
+          },
+          "time": {
+            "S": "108"
+          },
+          "Title": {
+            "S": "Interval notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197398/151.jpg"
+          },
+          "summary": {
+            "S": "What I like to call in between notation, its always less less that could be less than equal to or equal to.\nBut this is the solution for inequality notation.\nWhat about set notation?\nNow.\n negatory includes the point.\nBut you never put a greater than symbol.\n"
+          },
+          "time": {
+            "S": "151"
+          },
+          "Title": {
+            "S": "Inequality notation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197398/189.jpg"
+          },
+          "summary": {
+            "S": "We say its the set of all X.\nSuch that.\nAll I need to do really is include the braces.\nHow do we read this?\nAnd then I pretty much copy this down.\nWe ll have 93 is less than or equal to X.\n"
+          },
+          "time": {
+            "S": "189"
+          },
+          "Title": {
+            "S": "Set notation"
+          }
+        }
+      }
+    ]
+  }
+}

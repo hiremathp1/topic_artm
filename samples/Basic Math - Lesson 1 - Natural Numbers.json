@@ -1,0 +1,837 @@
+{
+  "VideoID": {
+    "S": "VID_3199687"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "14"
+          },
+          "start_time": {
+            "N": "0"
+          },
+          "text": {
+            "S": "alcohol getting caught up with music there . Hi ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "18"
+          },
+          "start_time": {
+            "N": "12"
+          },
+          "text": {
+            "S": "I am luis Anthony asked the video math tutor ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "21"
+          },
+          "start_time": {
+            "N": "15"
+          },
+          "text": {
+            "S": "Welcome to Basic Math . This is less than #"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "27"
+          },
+          "start_time": {
+            "N": "19"
+          },
+          "text": {
+            "S": "one . This lesson concerns with how to identify what"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "29"
+          },
+          "start_time": {
+            "N": "24"
+          },
+          "text": {
+            "S": "a number is , what type , What is the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "32"
+          },
+          "start_time": {
+            "N": "26"
+          },
+          "text": {
+            "S": "classification of a number . Right . And the second"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "36"
+          },
+          "start_time": {
+            "N": "29"
+          },
+          "text": {
+            "S": "part of this lasted deals with sets of numbers ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "40"
+          },
+          "start_time": {
+            "N": "33"
+          },
+          "text": {
+            "S": "how to group associate numbers together . Now before we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "43"
+          },
+          "start_time": {
+            "N": "37"
+          },
+          "text": {
+            "S": "get to make sure of course you've downloaded the notes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "45"
+          },
+          "start_time": {
+            "N": "40"
+          },
+          "text": {
+            "S": "and printed them up and had a chance to read"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "47"
+          },
+          "start_time": {
+            "N": "42"
+          },
+          "text": {
+            "S": "through them . Okay , so if you haven't had"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "48"
+          },
+          "start_time": {
+            "N": "44"
+          },
+          "text": {
+            "S": "a chance to that , put this on pause ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "51"
+          },
+          "start_time": {
+            "N": "45"
+          },
+          "text": {
+            "S": "read the notes . Come back here . All right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "54"
+          },
+          "start_time": {
+            "N": "48"
+          },
+          "text": {
+            "S": ". You do that . Okay , great . Before"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "59"
+          },
+          "start_time": {
+            "N": "51"
+          },
+          "text": {
+            "S": "we get started a small technicality , this is going"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "62"
+          },
+          "start_time": {
+            "N": "56"
+          },
+          "text": {
+            "S": "to represent what I'm going to call and what lots"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "65"
+          },
+          "start_time": {
+            "N": "59"
+          },
+          "text": {
+            "S": "of people call the real number line . It's just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "67"
+          },
+          "start_time": {
+            "N": "62"
+          },
+          "text": {
+            "S": "a line . I'm going to divide up in little"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "70"
+          },
+          "start_time": {
+            "N": "64"
+          },
+          "text": {
+            "S": "bits and pieces . And the wonderful thing about the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "74"
+          },
+          "start_time": {
+            "N": "67"
+          },
+          "text": {
+            "S": "number line is there is what's called a direct correspondence"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "78"
+          },
+          "start_time": {
+            "N": "71"
+          },
+          "text": {
+            "S": "between numbers which I have right here in my hand"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "82"
+          },
+          "start_time": {
+            "N": "76"
+          },
+          "text": {
+            "S": "and number line . So for example , the number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "86"
+          },
+          "start_time": {
+            "N": "79"
+          },
+          "text": {
+            "S": "one that place to anyone . A number line there"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "91"
+          },
+          "start_time": {
+            "N": "83"
+          },
+          "text": {
+            "S": "is actually a point on the number line That corresponds"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "94"
+          },
+          "start_time": {
+            "N": "88"
+          },
+          "text": {
+            "S": "right with it . And that point represents one ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "98"
+          },
+          "start_time": {
+            "N": "92"
+          },
+          "text": {
+            "S": "I want to understand that . Let's have a number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "103"
+          },
+          "start_time": {
+            "N": "95"
+          },
+          "text": {
+            "S": "two that right there , The # two has a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "110"
+          },
+          "start_time": {
+            "N": "100"
+          },
+          "text": {
+            "S": "point on the number line that again directly corresponds And"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "113"
+          },
+          "start_time": {
+            "N": "107"
+          },
+          "text": {
+            "S": "is associated with the # two . Now , with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "117"
+          },
+          "start_time": {
+            "N": "110"
+          },
+          "text": {
+            "S": "this in mind , we cannot talk about numbers and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "120"
+          },
+          "start_time": {
+            "N": "114"
+          },
+          "text": {
+            "S": "how they are classified and how I can actually view"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "121"
+          },
+          "start_time": {
+            "N": "117"
+          },
+          "text": {
+            "S": "them on another line . So we won't be doing"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "130"
+          },
+          "start_time": {
+            "N": "118"
+          },
+          "text": {
+            "S": "that . Next natural numbers . Natural numbers are the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "137"
+          },
+          "start_time": {
+            "N": "127"
+          },
+          "text": {
+            "S": "numbers you can count with 123456789 10 , 11 ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "142"
+          },
+          "start_time": {
+            "N": "134"
+          },
+          "text": {
+            "S": "12 , 13 , 14 50 . And so yeah"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "146"
+          },
+          "start_time": {
+            "N": "140"
+          },
+          "text": {
+            "S": ", sorry , we can represent the natural numbers with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "149"
+          },
+          "start_time": {
+            "N": "143"
+          },
+          "text": {
+            "S": "this symbol right here . Okay . It's a capital"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "152"
+          },
+          "start_time": {
+            "N": "146"
+          },
+          "text": {
+            "S": "end . And it has it's rather stylized type ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "154"
+          },
+          "start_time": {
+            "N": "149"
+          },
+          "text": {
+            "S": "It has like a double bar to the center ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "157"
+          },
+          "start_time": {
+            "N": "152"
+          },
+          "text": {
+            "S": "And you will see that in my math notes and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "160"
+          },
+          "start_time": {
+            "N": "154"
+          },
+          "text": {
+            "S": "you'll see this in textbooks . Sometimes some math classes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "163"
+          },
+          "start_time": {
+            "N": "157"
+          },
+          "text": {
+            "S": "don't bother listening to symbols . If your book doesn't"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "164"
+          },
+          "start_time": {
+            "N": "160"
+          },
+          "text": {
+            "S": ", don't worry about it . Okay , But I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "168"
+          },
+          "start_time": {
+            "N": "161"
+          },
+          "text": {
+            "S": "will use the symbols . No . Again , natural"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "171"
+          },
+          "start_time": {
+            "N": "165"
+          },
+          "text": {
+            "S": "numbers are numbers you can count with on the number"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "176"
+          },
+          "start_time": {
+            "N": "168"
+          },
+          "text": {
+            "S": "line . Here's an example of how I can represent"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "178"
+          },
+          "start_time": {
+            "N": "173"
+          },
+          "text": {
+            "S": "the numbers and you can start with one and then"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "179"
+          },
+          "start_time": {
+            "N": "175"
+          },
+          "text": {
+            "S": ", you know , we can start with two and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "184"
+          },
+          "start_time": {
+            "N": "176"
+          },
+          "text": {
+            "S": "then three and then four and then five and six"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "186"
+          },
+          "start_time": {
+            "N": "181"
+          },
+          "text": {
+            "S": ". And where am I going to stop with this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "188"
+          },
+          "start_time": {
+            "N": "184"
+          },
+          "text": {
+            "S": "? I'm having too much fun here . I just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "192"
+          },
+          "start_time": {
+            "N": "185"
+          },
+          "text": {
+            "S": "can't stop . Sorry . Well , you get the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "195"
+          },
+          "start_time": {
+            "N": "189"
+          },
+          "text": {
+            "S": "gist of it . They do go on forever ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "198"
+          },
+          "start_time": {
+            "N": "192"
+          },
+          "text": {
+            "S": "The smallest natural number is the number one . Okay"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "201"
+          },
+          "start_time": {
+            "N": "195"
+          },
+          "text": {
+            "S": ", so one is the smallest natural number . That's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "203"
+          },
+          "start_time": {
+            "N": "198"
+          },
+          "text": {
+            "S": "very important . Remember that ? Sometimes people are asking"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "204"
+          },
+          "start_time": {
+            "N": "200"
+          },
+          "text": {
+            "S": "on test"
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199687/37.jpg"
+          },
+          "summary": {
+            "S": "This lesson concerns with how to identify what a number is, what type, What is the classification of a number.\nHi, I am luis Anthony asked the video math tutor.\nRight.\n alcohol getting caught up with music there.\nAnd the second part of this lasted deals with sets of numbers, how to group associate numbers together.\n"
+          },
+          "time": {
+            "S": "37"
+          },
+          "Title": {
+            "S": "Lesson"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199687/76.jpg"
+          },
+          "summary": {
+            "S": "Okay, so if you have nt had a chance to that, put this on pause, read the notes.\nI m going to divide up in little bits and pieces.\nCome back here.\nAll right.\nIts just a line.\n and printed them up and had a chance to read through them.\n"
+          },
+          "time": {
+            "S": "76"
+          },
+          "Title": {
+            "S": "Natural Numbers"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199687/118.jpg"
+          },
+          "summary": {
+            "S": "A number line there is actually a point on the number line That corresponds right with it.\n one that place to anyone.\nNow, with this in mind, we can not talk about numbers and how they are classified and how I can actually view them on another line.\n"
+          },
+          "time": {
+            "S": "118"
+          },
+          "Title": {
+            "S": "A number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199687/157.jpg"
+          },
+          "summary": {
+            "S": "And it has its rather stylized type.\nAnd so yeah, sorry, we can represent the natural numbers with this symbol right here.\nOkay.\nAnd you will see that in my math notes and you ll see this in textbooks.\nIts a capital end.\n"
+          },
+          "time": {
+            "S": "157"
+          },
+          "Title": {
+            "S": "Math Number"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199687/198.jpg"
+          },
+          "summary": {
+            "S": "The smallest natural number is the number one.\nAnd where am I going to stop with this?\n, do nt worry about it.\nI m having too much fun here.\nI just ca nt stop.\nNo.\nSorry.\nOkay, But I will use the symbols.\n"
+          },
+          "time": {
+            "S": "198"
+          },
+          "Title": {
+            "S": "Smallest natural Number"
+          }
+        }
+      }
+    ]
+  }
+}

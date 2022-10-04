@@ -1,0 +1,512 @@
+{
+  "VideoID": {
+    "S": "VID_3199698"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "16"
+          },
+          "start_time": {
+            "N": "10"
+          },
+          "text": {
+            "S": "Hello . This is Basic Math Lesson . # two"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "19"
+          },
+          "start_time": {
+            "N": "14"
+          },
+          "text": {
+            "S": ". 1st step is of course print these notes ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "22"
+          },
+          "start_time": {
+            "N": "17"
+          },
+          "text": {
+            "S": "read them , do the quiz . You know the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "25"
+          },
+          "start_time": {
+            "N": "19"
+          },
+          "text": {
+            "S": "drill ? If you went through less than one that's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "28"
+          },
+          "start_time": {
+            "N": "22"
+          },
+          "text": {
+            "S": "the first thing . They come back here and listen"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "30"
+          },
+          "start_time": {
+            "N": "25"
+          },
+          "text": {
+            "S": "to this wonderful lecture on how to do all this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "38"
+          },
+          "start_time": {
+            "N": "27"
+          },
+          "text": {
+            "S": "stuff . Order of numbers . Numbers are ordered relative"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "45"
+          },
+          "start_time": {
+            "N": "35"
+          },
+          "text": {
+            "S": "where their position . Three zeros . So numbers to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "49"
+          },
+          "start_time": {
+            "N": "42"
+          },
+          "text": {
+            "S": "the right of zero call positive numbers . And if"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "52"
+          },
+          "start_time": {
+            "N": "46"
+          },
+          "text": {
+            "S": "numbers are to the left of zero they're called negative"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "59"
+          },
+          "start_time": {
+            "N": "49"
+          },
+          "text": {
+            "S": "number . On a special note . I wanna talk"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "63"
+          },
+          "start_time": {
+            "N": "56"
+          },
+          "text": {
+            "S": "a little bit about what our variables variables are ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "65"
+          },
+          "start_time": {
+            "N": "60"
+          },
+          "text": {
+            "S": "Letters from the alphabet A . B . C ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "69"
+          },
+          "start_time": {
+            "N": "62"
+          },
+          "text": {
+            "S": "X . Y . Z . They're used to represent"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "74"
+          },
+          "start_time": {
+            "N": "67"
+          },
+          "text": {
+            "S": "a number . For example I can say let A"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "78"
+          },
+          "start_time": {
+            "N": "71"
+          },
+          "text": {
+            "S": ". Equals four . You might say well wait a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "80"
+          },
+          "start_time": {
+            "N": "75"
+          },
+          "text": {
+            "S": "minute is a letter and for the number you can't"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "82"
+          },
+          "start_time": {
+            "N": "77"
+          },
+          "text": {
+            "S": "say one way or the other . Well I'm not"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "84"
+          },
+          "start_time": {
+            "N": "79"
+          },
+          "text": {
+            "S": "saying a letter is equal number A . I want"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "88"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": "to call that a variable variables are unknown numbers ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "91"
+          },
+          "start_time": {
+            "N": "86"
+          },
+          "text": {
+            "S": "Until you can make them known . If you're known"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "93"
+          },
+          "start_time": {
+            "N": "88"
+          },
+          "text": {
+            "S": ", then I can actually make this assignment . You"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "96"
+          },
+          "start_time": {
+            "N": "90"
+          },
+          "text": {
+            "S": "know , I want to say a equals four Or"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "99"
+          },
+          "start_time": {
+            "N": "93"
+          },
+          "text": {
+            "S": "I can say x equals five . And now with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "105"
+          },
+          "start_time": {
+            "N": "96"
+          },
+          "text": {
+            "S": "that I'm being more general and that's pretty much what"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "109"
+          },
+          "start_time": {
+            "N": "102"
+          },
+          "text": {
+            "S": "album was all about . We generalize the rules of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "114"
+          },
+          "start_time": {
+            "N": "106"
+          },
+          "text": {
+            "S": "arithmetic and lower level math into something that's more generic"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "120"
+          },
+          "start_time": {
+            "N": "111"
+          },
+          "text": {
+            "S": ", has basic leave the same properties . So I'm"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "124"
+          },
+          "start_time": {
+            "N": "117"
+          },
+          "text": {
+            "S": "going to be using letters now that represent numbers sometimes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "129"
+          },
+          "start_time": {
+            "N": "122"
+          },
+          "text": {
+            "S": "from now on . Okay . So if I'm going"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "133"
+          },
+          "start_time": {
+            "N": "126"
+          },
+          "text": {
+            "S": "to say a equals four , let's talk about equalities"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "2"
+          },
+          "start_time": {
+            "N": "-1"
+          },
+          "text": {
+            "S": "."
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199698/22.jpg"
+          },
+          "summary": {
+            "S": "You know the drill?\n Hello.\nThis is Basic Math Lesson.\n1st step is of course print these notes, read them, do the quiz.\n"
+          },
+          "time": {
+            "S": "22"
+          },
+          "Title": {
+            "S": "Lesson"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199698/49.jpg"
+          },
+          "summary": {
+            "S": "Order of numbers.\n to this wonderful lecture on how to do all this stuff.\nThree zeros.\nNumbers are ordered relative where their position.\nSo numbers to the right of zero call positive numbers.\n"
+          },
+          "time": {
+            "S": "49"
+          },
+          "Title": {
+            "S": "Order of numbers."
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199698/75.jpg"
+          },
+          "summary": {
+            "S": "Letters from the alphabet A.\nB.\nC.\nX.\nY.\nZ.\nEquals four.\n a little bit about what our variables variables are.\nFor example I can say let A.\nTheyre used to represent a number.\n"
+          },
+          "time": {
+            "S": "75"
+          },
+          "Title": {
+            "S": "Letters"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199698/102.jpg"
+          },
+          "summary": {
+            "S": "You know, I want to say a equals four Or I can say x equals five.\nUntil you can make them known.\nWell I m not saying a letter is equal number A.\nI want to call that a variable variables are unknown numbers.\n say one way or the other.\n"
+          },
+          "time": {
+            "S": "102"
+          },
+          "Title": {
+            "S": "Variable"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3199698/126.jpg"
+          },
+          "summary": {
+            "S": "So I m going to be using letters now that represent numbers sometimes from now on.\nOkay.\n arithmetic and lower level math into something thats more generic, has basic leave the same properties.\n"
+          },
+          "time": {
+            "S": "126"
+          },
+          "Title": {
+            "S": "Numbers"
+          }
+        }
+      }
+    ]
+  }
+}

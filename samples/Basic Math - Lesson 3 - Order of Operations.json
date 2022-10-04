@@ -1,0 +1,4490 @@
+{
+  "VideoID": {
+    "S": "VID_3197531"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "9"
+          },
+          "start_time": {
+            "N": "3"
+          },
+          "text": {
+            "S": "now that we've learned all these arithmetic operations with positive"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "11"
+          },
+          "start_time": {
+            "N": "6"
+          },
+          "text": {
+            "S": "numbers . We have all these rules at our disposal"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "14"
+          },
+          "start_time": {
+            "N": "9"
+          },
+          "text": {
+            "S": ". Let's actually combine them in different problems . Here's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "18"
+          },
+          "start_time": {
+            "N": "11"
+          },
+          "text": {
+            "S": "an example . I have two plus three times four"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "25"
+          },
+          "start_time": {
+            "N": "16"
+          },
+          "text": {
+            "S": "equals what ? Yeah . Well there's a little bit"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "29"
+          },
+          "start_time": {
+            "N": "22"
+          },
+          "text": {
+            "S": "of a problem with this because should we put the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "31"
+          },
+          "start_time": {
+            "N": "26"
+          },
+          "text": {
+            "S": "two and the three together ? Should we add them"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "35"
+          },
+          "start_time": {
+            "N": "28"
+          },
+          "text": {
+            "S": "up first or should we multiply the three and four"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "41"
+          },
+          "start_time": {
+            "N": "32"
+          },
+          "text": {
+            "S": "together first . Okay . So there's there's some ambiguity"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "45"
+          },
+          "start_time": {
+            "N": "38"
+          },
+          "text": {
+            "S": "here . Unless we lay down some more rules and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "47"
+          },
+          "start_time": {
+            "N": "42"
+          },
+          "text": {
+            "S": "these rules are called the order of operations and that's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "50"
+          },
+          "start_time": {
+            "N": "44"
+          },
+          "text": {
+            "S": "what we'll be covering next . Now the first thing"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "52"
+          },
+          "start_time": {
+            "N": "47"
+          },
+          "text": {
+            "S": "before we have to even really dig deep into order"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "55"
+          },
+          "start_time": {
+            "N": "49"
+          },
+          "text": {
+            "S": "operations is we need to discuss what we call grouping"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "63"
+          },
+          "start_time": {
+            "N": "52"
+          },
+          "text": {
+            "S": "symbols . To learn more about grouping symbols . It's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "65"
+          },
+          "start_time": {
+            "N": "60"
+          },
+          "text": {
+            "S": "actually doing an example . I have one minus two"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "69"
+          },
+          "start_time": {
+            "N": "62"
+          },
+          "text": {
+            "S": "plus three . I would like to perform the operation"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "71"
+          },
+          "start_time": {
+            "N": "66"
+          },
+          "text": {
+            "S": "with the two and three first . So to illustrate"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "75"
+          },
+          "start_time": {
+            "N": "68"
+          },
+          "text": {
+            "S": "that I'm gonna use parentheses so I'm just gonna surround"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "79"
+          },
+          "start_time": {
+            "N": "72"
+          },
+          "text": {
+            "S": "these two . That means do two plus three first"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "80"
+          },
+          "start_time": {
+            "N": "76"
+          },
+          "text": {
+            "S": ". And then when you get that answer , go"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "84"
+          },
+          "start_time": {
+            "N": "77"
+          },
+          "text": {
+            "S": "one line is the result . So now what incorporates"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "86"
+          },
+          "start_time": {
+            "N": "81"
+          },
+          "text": {
+            "S": "more stuff ? This problem ? So I wanna multiply"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "87"
+          },
+          "start_time": {
+            "N": "83"
+          },
+          "text": {
+            "S": "this . Let's say this whole thing by four ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "91"
+          },
+          "start_time": {
+            "N": "84"
+          },
+          "text": {
+            "S": "So I'll put a four right here and I'm gonna"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "93"
+          },
+          "start_time": {
+            "N": "88"
+          },
+          "text": {
+            "S": "throw in a new grouping symbol , which is the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "97"
+          },
+          "start_time": {
+            "N": "90"
+          },
+          "text": {
+            "S": "square bracket or just the bracket . Now notice there's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "100"
+          },
+          "start_time": {
+            "N": "94"
+          },
+          "text": {
+            "S": "I didn't put a multiplication symbol , This is implied"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "103"
+          },
+          "start_time": {
+            "N": "97"
+          },
+          "text": {
+            "S": "multiplication . There's nothing between the four and assemble ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "106"
+          },
+          "start_time": {
+            "N": "100"
+          },
+          "text": {
+            "S": "Okay , next , I'm gonna do is I'm gonna"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "115"
+          },
+          "start_time": {
+            "N": "103"
+          },
+          "text": {
+            "S": "say five minus this whole thing . Well , about"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "116"
+          },
+          "start_time": {
+            "N": "112"
+          },
+          "text": {
+            "S": "group examples . Well , actually we don't need any"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "119"
+          },
+          "start_time": {
+            "N": "113"
+          },
+          "text": {
+            "S": "at this point . Okay , we're gonna learn very"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "122"
+          },
+          "start_time": {
+            "N": "116"
+          },
+          "text": {
+            "S": "soon that when we have additions or subtractions uh joined"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "126"
+          },
+          "start_time": {
+            "N": "119"
+          },
+          "text": {
+            "S": "with applications or divisions , multiplication division has done beforehand"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "130"
+          },
+          "start_time": {
+            "N": "123"
+          },
+          "text": {
+            "S": ". So this would be done first automatically than this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "131"
+          },
+          "start_time": {
+            "N": "127"
+          },
+          "text": {
+            "S": ". Now , if I want this done first ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "133"
+          },
+          "start_time": {
+            "N": "128"
+          },
+          "text": {
+            "S": "I would Of course , he's all the groups in"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "138"
+          },
+          "start_time": {
+            "N": "130"
+          },
+          "text": {
+            "S": "this case let's go up another notch . So now"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "142"
+          },
+          "start_time": {
+            "N": "135"
+          },
+          "text": {
+            "S": "I want to have six and I want to add"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "146"
+          },
+          "start_time": {
+            "N": "139"
+          },
+          "text": {
+            "S": "that to this entire problem right here . So another"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "150"
+          },
+          "start_time": {
+            "N": "143"
+          },
+          "text": {
+            "S": "grouping symbol are curly braces or just braces . So"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "154"
+          },
+          "start_time": {
+            "N": "147"
+          },
+          "text": {
+            "S": "let's throw in a couple of those one here and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "156"
+          },
+          "start_time": {
+            "N": "151"
+          },
+          "text": {
+            "S": "I'm going through this whole thing together like that ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "161"
+          },
+          "start_time": {
+            "N": "154"
+          },
+          "text": {
+            "S": "So six plus this whole thing . What I want"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "165"
+          },
+          "start_time": {
+            "N": "158"
+          },
+          "text": {
+            "S": "to do next And I well , I stopped there"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "166"
+          },
+          "start_time": {
+            "N": "162"
+          },
+          "text": {
+            "S": ". Right , let's let's just keep going . This"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "169"
+          },
+          "start_time": {
+            "N": "163"
+          },
+          "text": {
+            "S": "is just so much fun . Okay , I'm sorry"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "173"
+          },
+          "start_time": {
+            "N": "166"
+          },
+          "text": {
+            "S": ", hold excited there , Muscle throw into seven ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "179"
+          },
+          "start_time": {
+            "N": "170"
+          },
+          "text": {
+            "S": "So let's go seven minus this whole thing . Well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "180"
+          },
+          "start_time": {
+            "N": "176"
+          },
+          "text": {
+            "S": ", now , what type of group of symbols should"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "184"
+          },
+          "start_time": {
+            "N": "177"
+          },
+          "text": {
+            "S": "we use ? Well , we could throw another parentheses"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "186"
+          },
+          "start_time": {
+            "N": "181"
+          },
+          "text": {
+            "S": "and square brackets , a braces , but there's one"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "190"
+          },
+          "start_time": {
+            "N": "183"
+          },
+          "text": {
+            "S": "more all encompassing symbol . And that's a bar ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "194"
+          },
+          "start_time": {
+            "N": "187"
+          },
+          "text": {
+            "S": "like a horizontal bar . It's also called Advincula um"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "197"
+          },
+          "start_time": {
+            "N": "191"
+          },
+          "text": {
+            "S": "or being killed him . Not your eyes pronounced but"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "201"
+          },
+          "start_time": {
+            "N": "194"
+          },
+          "text": {
+            "S": "bar it's fine . Yeah . And I'm gonna encompass"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "208"
+          },
+          "start_time": {
+            "N": "198"
+          },
+          "text": {
+            "S": "this whole thing . There we go . So this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "214"
+          },
+          "start_time": {
+            "N": "205"
+          },
+          "text": {
+            "S": "bar represents all this is one entire group so it's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "217"
+          },
+          "start_time": {
+            "N": "211"
+          },
+          "text": {
+            "S": "seven months . The group of items and those are"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "221"
+          },
+          "start_time": {
+            "N": "214"
+          },
+          "text": {
+            "S": "the main grouping symbols that will be operating with a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "223"
+          },
+          "start_time": {
+            "N": "218"
+          },
+          "text": {
+            "S": "little bit overkill here with this problem obviously . But"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "226"
+          },
+          "start_time": {
+            "N": "220"
+          },
+          "text": {
+            "S": "it's gonna illustrate everything in one fell swoop . Now"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "228"
+          },
+          "start_time": {
+            "N": "223"
+          },
+          "text": {
+            "S": "if you were doing something like this in the calculator"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "232"
+          },
+          "start_time": {
+            "N": "226"
+          },
+          "text": {
+            "S": ", the only grouping symbols you're allowed to use when"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "234"
+          },
+          "start_time": {
+            "N": "229"
+          },
+          "text": {
+            "S": "you're dealing with numbers like this . A parenthesis ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "239"
+          },
+          "start_time": {
+            "N": "231"
+          },
+          "text": {
+            "S": "Yes the copter has square brackets and braces but they're"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "242"
+          },
+          "start_time": {
+            "N": "236"
+          },
+          "text": {
+            "S": "used for other things . So I know you might"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "245"
+          },
+          "start_time": {
+            "N": "239"
+          },
+          "text": {
+            "S": "see them on a calculator . They're right on right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "248"
+          },
+          "start_time": {
+            "N": "242"
+          },
+          "text": {
+            "S": "on here . Don't don't use them unless you know"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "251"
+          },
+          "start_time": {
+            "N": "245"
+          },
+          "text": {
+            "S": "what they're for . Okay now let's take a moment"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "256"
+          },
+          "start_time": {
+            "N": "248"
+          },
+          "text": {
+            "S": "to look at other grouping symbols . Let's take a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "259"
+          },
+          "start_time": {
+            "N": "253"
+          },
+          "text": {
+            "S": "look at some other examples of grouping symbols . First"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "262"
+          },
+          "start_time": {
+            "N": "256"
+          },
+          "text": {
+            "S": "off a fraction bar is used to encompass everything that's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "264"
+          },
+          "start_time": {
+            "N": "259"
+          },
+          "text": {
+            "S": "an enumerators on top and everything in the denominator on"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "268"
+          },
+          "start_time": {
+            "N": "261"
+          },
+          "text": {
+            "S": "the bottom and they're enclosed together implicitly that's implied by"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "273"
+          },
+          "start_time": {
+            "N": "265"
+          },
+          "text": {
+            "S": "the fraction bar . Another symbol that's used is the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "278"
+          },
+          "start_time": {
+            "N": "270"
+          },
+          "text": {
+            "S": "absolute value notation , vertical bars . So here I'm"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "284"
+          },
+          "start_time": {
+            "N": "275"
+          },
+          "text": {
+            "S": "grouping together the X-plus three . Finally Radical . Dude"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "287"
+          },
+          "start_time": {
+            "N": "281"
+          },
+          "text": {
+            "S": "sorry just the radicals are used to encompass items ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "290"
+          },
+          "start_time": {
+            "N": "284"
+          },
+          "text": {
+            "S": "See here the three minus Y . Is enclosed inside"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "299"
+          },
+          "start_time": {
+            "N": "287"
+          },
+          "text": {
+            "S": "the radical symbol . Another way of writing all our"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "302"
+          },
+          "start_time": {
+            "N": "296"
+          },
+          "text": {
+            "S": "different grouping symbols as follows . So let's say we're"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "305"
+          },
+          "start_time": {
+            "N": "299"
+          },
+          "text": {
+            "S": "giving this thing on top , we have a parentheses"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "306"
+          },
+          "start_time": {
+            "N": "302"
+          },
+          "text": {
+            "S": "and then we have our square brackets . We have"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "309"
+          },
+          "start_time": {
+            "N": "303"
+          },
+          "text": {
+            "S": "our braces and we have our horizontal bar . Yeah"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "313"
+          },
+          "start_time": {
+            "N": "307"
+          },
+          "text": {
+            "S": ". Looks kinda nasty looking . So another way of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "318"
+          },
+          "start_time": {
+            "N": "310"
+          },
+          "text": {
+            "S": "rewriting it is to alternate the parentheses and square brackets"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "320"
+          },
+          "start_time": {
+            "N": "315"
+          },
+          "text": {
+            "S": ", see how I did that . So , I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "322"
+          },
+          "start_time": {
+            "N": "317"
+          },
+          "text": {
+            "S": "started with a parentheses in the innermost set of grouping"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "325"
+          },
+          "start_time": {
+            "N": "319"
+          },
+          "text": {
+            "S": "symbols . Then I moved to the square brackets ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "329"
+          },
+          "start_time": {
+            "N": "322"
+          },
+          "text": {
+            "S": "Then I go to parentheses again . And then finally"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "333"
+          },
+          "start_time": {
+            "N": "326"
+          },
+          "text": {
+            "S": "I go with another set of brackets and see this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "336"
+          },
+          "start_time": {
+            "N": "330"
+          },
+          "text": {
+            "S": "one . It's still a rather complicated problem , but"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "338"
+          },
+          "start_time": {
+            "N": "333"
+          },
+          "text": {
+            "S": "it is a little bit more soothing to the eyes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "344"
+          },
+          "start_time": {
+            "N": "335"
+          },
+          "text": {
+            "S": ", I can say , mm hmm . There's nothing"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "348"
+          },
+          "start_time": {
+            "N": "341"
+          },
+          "text": {
+            "S": "special about parentheses . If I want to group items"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "350"
+          },
+          "start_time": {
+            "N": "345"
+          },
+          "text": {
+            "S": "together , I can use apprentices . But no ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "353"
+          },
+          "start_time": {
+            "N": "347"
+          },
+          "text": {
+            "S": "I can use other things to , for example ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "357"
+          },
+          "start_time": {
+            "N": "351"
+          },
+          "text": {
+            "S": "Mhm . You can just use the square brackets and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "360"
+          },
+          "start_time": {
+            "N": "354"
+          },
+          "text": {
+            "S": "that's fine . Uh huh . Okay . Traditionally we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "363"
+          },
+          "start_time": {
+            "N": "357"
+          },
+          "text": {
+            "S": "use parentheses and then if we have parentheses and we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "364"
+          },
+          "start_time": {
+            "N": "360"
+          },
+          "text": {
+            "S": "need to use other group examples , then we throw"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "365"
+          },
+          "start_time": {
+            "N": "361"
+          },
+          "text": {
+            "S": "in the brackets . But you don't have to do"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "369"
+          },
+          "start_time": {
+            "N": "362"
+          },
+          "text": {
+            "S": "that . You can use square brackets to begin with"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "374"
+          },
+          "start_time": {
+            "N": "366"
+          },
+          "text": {
+            "S": "and why just do square brackets . All right ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "380"
+          },
+          "start_time": {
+            "N": "371"
+          },
+          "text": {
+            "S": "We could also use braces to encompass items together ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "384"
+          },
+          "start_time": {
+            "N": "378"
+          },
+          "text": {
+            "S": "And finally , if you want you can just use"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "388"
+          },
+          "start_time": {
+            "N": "381"
+          },
+          "text": {
+            "S": "the horizontal bar like this . Do you have one"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "393"
+          },
+          "start_time": {
+            "N": "385"
+          },
+          "text": {
+            "S": "plus the group of 8 -3 ? But just stick"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "402"
+          },
+          "start_time": {
+            "N": "390"
+          },
+          "text": {
+            "S": "with parentheses ? It's quite easy for everybody . The"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "405"
+          },
+          "start_time": {
+            "N": "399"
+          },
+          "text": {
+            "S": "first rule of order of operations is to evaluate any"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "410"
+          },
+          "start_time": {
+            "N": "402"
+          },
+          "text": {
+            "S": "expression within Grouping Symbols . In this case I would"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "415"
+          },
+          "start_time": {
+            "N": "407"
+          },
+          "text": {
+            "S": "evaluate 8 -3 1st . Now if you have grouping"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "417"
+          },
+          "start_time": {
+            "N": "412"
+          },
+          "text": {
+            "S": "symbols within grouping symbols , like in the second example"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "421"
+          },
+          "start_time": {
+            "N": "414"
+          },
+          "text": {
+            "S": "here you perform the operations within the inner most group"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "426"
+          },
+          "start_time": {
+            "N": "418"
+          },
+          "text": {
+            "S": "of symbols first . So in this case the 1-plus"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "428"
+          },
+          "start_time": {
+            "N": "423"
+          },
+          "text": {
+            "S": "2 is done first and then you work your way"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "431"
+          },
+          "start_time": {
+            "N": "425"
+          },
+          "text": {
+            "S": "out . Now . I won't take time to actually"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "433"
+          },
+          "start_time": {
+            "N": "428"
+          },
+          "text": {
+            "S": "finish these problems right now . But later on we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "436"
+          },
+          "start_time": {
+            "N": "430"
+          },
+          "text": {
+            "S": "will do quite a number of examples of this ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "442"
+          },
+          "start_time": {
+            "N": "436"
+          },
+          "text": {
+            "S": "The second rule of oral operations is perform anything that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "446"
+          },
+          "start_time": {
+            "N": "439"
+          },
+          "text": {
+            "S": "has an exponent first . So something like this ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "450"
+          },
+          "start_time": {
+            "N": "444"
+          },
+          "text": {
+            "S": "I will not add the 3-plus 4 1st . The"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "453"
+          },
+          "start_time": {
+            "N": "447"
+          },
+          "text": {
+            "S": "rules if you see the next minute that's evaluated first"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "457"
+          },
+          "start_time": {
+            "N": "450"
+          },
+          "text": {
+            "S": ". I would actually say four squared then at three"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "462"
+          },
+          "start_time": {
+            "N": "454"
+          },
+          "text": {
+            "S": "to death . Yeah , the next rule is you"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "466"
+          },
+          "start_time": {
+            "N": "459"
+          },
+          "text": {
+            "S": "perform all applications and divisions next in order from left"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "469"
+          },
+          "start_time": {
+            "N": "463"
+          },
+          "text": {
+            "S": "to right . So something like this , I would"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "472"
+          },
+          "start_time": {
+            "N": "466"
+          },
+          "text": {
+            "S": "perform . So here we have a couple of things"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "473"
+          },
+          "start_time": {
+            "N": "469"
+          },
+          "text": {
+            "S": "we can do , we have a multiplication here and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "476"
+          },
+          "start_time": {
+            "N": "470"
+          },
+          "text": {
+            "S": "we have a division here . So those will be"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "480"
+          },
+          "start_time": {
+            "N": "473"
+          },
+          "text": {
+            "S": "done before we do addition . Okay . And since"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "482"
+          },
+          "start_time": {
+            "N": "477"
+          },
+          "text": {
+            "S": "we're supposed to go from left to right , I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "485"
+          },
+          "start_time": {
+            "N": "479"
+          },
+          "text": {
+            "S": "will perform this operation first . Let's actually do this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "488"
+          },
+          "start_time": {
+            "N": "482"
+          },
+          "text": {
+            "S": "problem . So three times two is six . I'm"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "494"
+          },
+          "start_time": {
+            "N": "485"
+          },
+          "text": {
+            "S": "gonna just copy down to rest next ordered operations as"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "497"
+          },
+          "start_time": {
+            "N": "491"
+          },
+          "text": {
+            "S": "we should need to do divisions before we do additions"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "499"
+          },
+          "start_time": {
+            "N": "494"
+          },
+          "text": {
+            "S": ". So I'm going to perform this operation next ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "502"
+          },
+          "start_time": {
+            "N": "496"
+          },
+          "text": {
+            "S": "So the six days four , divide by two is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "508"
+          },
+          "start_time": {
+            "N": "499"
+          },
+          "text": {
+            "S": "2 and I will do The 6-plus 2 . There's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "513"
+          },
+          "start_time": {
+            "N": "505"
+          },
+          "text": {
+            "S": "my answer . The last rule we need to do"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "516"
+          },
+          "start_time": {
+            "N": "510"
+          },
+          "text": {
+            "S": "is we perform all additions or subtractions from order from"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "518"
+          },
+          "start_time": {
+            "N": "513"
+          },
+          "text": {
+            "S": "left to right . So here we something has just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "522"
+          },
+          "start_time": {
+            "N": "515"
+          },
+          "text": {
+            "S": "additions subtractions in them and we go from left to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "525"
+          },
+          "start_time": {
+            "N": "519"
+          },
+          "text": {
+            "S": "right . So we're gonna do this operation first ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "528"
+          },
+          "start_time": {
+            "N": "522"
+          },
+          "text": {
+            "S": "so 8 -3 is fine . I'm gonna copy down"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "533"
+          },
+          "start_time": {
+            "N": "525"
+          },
+          "text": {
+            "S": "the rest again . I only have additions and subtractions"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "535"
+          },
+          "start_time": {
+            "N": "530"
+          },
+          "text": {
+            "S": ", so I go from left to right , five"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "536"
+          },
+          "start_time": {
+            "N": "532"
+          },
+          "text": {
+            "S": "plus five . I'm gonna do the operation . I'm"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "541"
+          },
+          "start_time": {
+            "N": "533"
+          },
+          "text": {
+            "S": "gonna get 10 now I do the subtraction 10 minus"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "549"
+          },
+          "start_time": {
+            "N": "538"
+          },
+          "text": {
+            "S": "one . The answer is right order of operations ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "554"
+          },
+          "start_time": {
+            "N": "548"
+          },
+          "text": {
+            "S": "First event the expression within the innermost set of grouping"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "560"
+          },
+          "start_time": {
+            "N": "551"
+          },
+          "text": {
+            "S": "symbols . Next evaluate expressions that have exponents , then"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "564"
+          },
+          "start_time": {
+            "N": "557"
+          },
+          "text": {
+            "S": "perform almost applications and divisions going from left to right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "568"
+          },
+          "start_time": {
+            "N": "561"
+          },
+          "text": {
+            "S": "in the expression . Finally , to all additions and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "570"
+          },
+          "start_time": {
+            "N": "565"
+          },
+          "text": {
+            "S": "subtractions . Again , going from left to right ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "578"
+          },
+          "start_time": {
+            "N": "567"
+          },
+          "text": {
+            "S": "In the expression , I did actually memorize their operations"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "580"
+          },
+          "start_time": {
+            "N": "575"
+          },
+          "text": {
+            "S": "and it may seem a little complicated , but there's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "583"
+          },
+          "start_time": {
+            "N": "577"
+          },
+          "text": {
+            "S": "a very easy way to remember everything . You're going"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "586"
+          },
+          "start_time": {
+            "N": "580"
+          },
+          "text": {
+            "S": "to use this acronym Pandas . What does it stand"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "589"
+          },
+          "start_time": {
+            "N": "583"
+          },
+          "text": {
+            "S": "for ? That's very easy . It stands for parentheses"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "595"
+          },
+          "start_time": {
+            "N": "586"
+          },
+          "text": {
+            "S": ". Exponents , multiplication , division , addition and subtraction"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "600"
+          },
+          "start_time": {
+            "N": "593"
+          },
+          "text": {
+            "S": ". Now the word pandas doesn't really sound like anything"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "605"
+          },
+          "start_time": {
+            "N": "597"
+          },
+          "text": {
+            "S": "like another typical word . So there's another demonic device"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "608"
+          },
+          "start_time": {
+            "N": "602"
+          },
+          "text": {
+            "S": "or memory to help us remember the word or acronym"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "612"
+          },
+          "start_time": {
+            "N": "605"
+          },
+          "text": {
+            "S": "pandas and it's the following . Please excuse my dear"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "616"
+          },
+          "start_time": {
+            "N": "609"
+          },
+          "text": {
+            "S": "Aunt Sally . There she is . Hi and sally"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "622"
+          },
+          "start_time": {
+            "N": "615"
+          },
+          "text": {
+            "S": ". Sorry . So that's a very easy way to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "624"
+          },
+          "start_time": {
+            "N": "619"
+          },
+          "text": {
+            "S": "remember it . So please excuse my dear aunt sally"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "627"
+          },
+          "start_time": {
+            "N": "622"
+          },
+          "text": {
+            "S": "Pandas , parentheses . Exponents . Multiplication . Division addition"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "635"
+          },
+          "start_time": {
+            "N": "624"
+          },
+          "text": {
+            "S": ", subtraction . Another way of thinking about order of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "639"
+          },
+          "start_time": {
+            "N": "632"
+          },
+          "text": {
+            "S": "operations is using the terminology or a precedence . The"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "641"
+          },
+          "start_time": {
+            "N": "636"
+          },
+          "text": {
+            "S": "president . Just how important something is . What's the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "644"
+          },
+          "start_time": {
+            "N": "638"
+          },
+          "text": {
+            "S": "priority ? And you can see that here in this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "649"
+          },
+          "start_time": {
+            "N": "641"
+          },
+          "text": {
+            "S": "illustration here again , here's PMS once again and the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "654"
+          },
+          "start_time": {
+            "N": "646"
+          },
+          "text": {
+            "S": "higher the operation , the higher the precedence it's important"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "658"
+          },
+          "start_time": {
+            "N": "651"
+          },
+          "text": {
+            "S": ". So the highest precedence is using grouping symbols to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "663"
+          },
+          "start_time": {
+            "N": "655"
+          },
+          "text": {
+            "S": "parentheses , brackets and so on . Next is exponents"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "665"
+          },
+          "start_time": {
+            "N": "660"
+          },
+          "text": {
+            "S": ". Now again , not necessarily squared is just illustrative"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "670"
+          },
+          "start_time": {
+            "N": "662"
+          },
+          "text": {
+            "S": "purposes . Then multiplication divisions . Now , yet just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "672"
+          },
+          "start_time": {
+            "N": "667"
+          },
+          "text": {
+            "S": "become applications mentioned first . Doesn't mean it has to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "676"
+          },
+          "start_time": {
+            "N": "669"
+          },
+          "text": {
+            "S": "be done first , it's a tie . So it's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "678"
+          },
+          "start_time": {
+            "N": "673"
+          },
+          "text": {
+            "S": "just whichever it goes from left to right on the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "681"
+          },
+          "start_time": {
+            "N": "675"
+          },
+          "text": {
+            "S": "left is done first and then so on the right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "686"
+          },
+          "start_time": {
+            "N": "678"
+          },
+          "text": {
+            "S": "and the lowest order of precedence is addition . And"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "689"
+          },
+          "start_time": {
+            "N": "683"
+          },
+          "text": {
+            "S": "you also have subtraction . And again , it doesn't"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "690"
+          },
+          "start_time": {
+            "N": "686"
+          },
+          "text": {
+            "S": "matter which one you do first , as long as"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "694"
+          },
+          "start_time": {
+            "N": "687"
+          },
+          "text": {
+            "S": "you go from left to right . And I wanted"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "697"
+          },
+          "start_time": {
+            "N": "691"
+          },
+          "text": {
+            "S": "to let you know that most graphing calculators understand this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "700"
+          },
+          "start_time": {
+            "N": "694"
+          },
+          "text": {
+            "S": "order precedent . This one does and it matches this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "703"
+          },
+          "start_time": {
+            "N": "697"
+          },
+          "text": {
+            "S": "now . If you have other types of calculate little"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "705"
+          },
+          "start_time": {
+            "N": "700"
+          },
+          "text": {
+            "S": "scientific calculators , non graphing models , they may not"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "709"
+          },
+          "start_time": {
+            "N": "702"
+          },
+          "text": {
+            "S": "necessarily follow this order of precedence . So you will"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "717"
+          },
+          "start_time": {
+            "N": "706"
+          },
+          "text": {
+            "S": "need to consult your calculator manual for that . Let's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "721"
+          },
+          "start_time": {
+            "N": "714"
+          },
+          "text": {
+            "S": "do some examples now on using these order of operations"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "723"
+          },
+          "start_time": {
+            "N": "718"
+          },
+          "text": {
+            "S": "for the first one . We want to simplify this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "725"
+          },
+          "start_time": {
+            "N": "720"
+          },
+          "text": {
+            "S": "expression right here . So let's follow our rules for"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "730"
+          },
+          "start_time": {
+            "N": "722"
+          },
+          "text": {
+            "S": "pandas here . So parentheses not only grouping symbols ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "734"
+          },
+          "start_time": {
+            "N": "727"
+          },
+          "text": {
+            "S": "so exponents right here . So I'm gonna do that"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "737"
+          },
+          "start_time": {
+            "N": "731"
+          },
+          "text": {
+            "S": "first . Anything I don't manipulate , I'm sure to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "740"
+          },
+          "start_time": {
+            "N": "734"
+          },
+          "text": {
+            "S": "write it over again . So this is equal to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "748"
+          },
+          "start_time": {
+            "N": "738"
+          },
+          "text": {
+            "S": "four plus three squared is nine times 2 minus 10"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "752"
+          },
+          "start_time": {
+            "N": "746"
+          },
+          "text": {
+            "S": ". Now continue our order of precedence here . Pandas"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "756"
+          },
+          "start_time": {
+            "N": "749"
+          },
+          "text": {
+            "S": "multiplication and division are next going from left to rights"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "759"
+          },
+          "start_time": {
+            "N": "753"
+          },
+          "text": {
+            "S": "and we have a multiplication right here , So the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "764"
+          },
+          "start_time": {
+            "N": "756"
+          },
+          "text": {
+            "S": "four stays nine times to 18 and we copy down"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "767"
+          },
+          "start_time": {
+            "N": "761"
+          },
+          "text": {
+            "S": "the 10 , Continue going now I only have additions"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "770"
+          },
+          "start_time": {
+            "N": "764"
+          },
+          "text": {
+            "S": "subtractions left , so you go from the order from"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "776"
+          },
+          "start_time": {
+            "N": "767"
+          },
+          "text": {
+            "S": "left to right for plus 18 It's 22 and we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "780"
+          },
+          "start_time": {
+            "N": "773"
+          },
+          "text": {
+            "S": "copy down the 10 And our last step is combining"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "785"
+          },
+          "start_time": {
+            "N": "777"
+          },
+          "text": {
+            "S": "these two terms 20-10 is 12 . That is our"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "793"
+          },
+          "start_time": {
+            "N": "782"
+          },
+          "text": {
+            "S": "answer . Let's not try using the calculator . Simplify"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "799"
+          },
+          "start_time": {
+            "N": "790"
+          },
+          "text": {
+            "S": "four plus three squared times two minus 10 . First"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "802"
+          },
+          "start_time": {
+            "N": "796"
+          },
+          "text": {
+            "S": "of its input . The expression it's clear four plus"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "808"
+          },
+          "start_time": {
+            "N": "799"
+          },
+          "text": {
+            "S": "three . Press the square key Times 2 -10 and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "816"
+          },
+          "start_time": {
+            "N": "805"
+          },
+          "text": {
+            "S": "then enter And the answer is 12 . Let's now"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "819"
+          },
+          "start_time": {
+            "N": "813"
+          },
+          "text": {
+            "S": "simplify this expression . It's no more complicated but I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "821"
+          },
+          "start_time": {
+            "N": "816"
+          },
+          "text": {
+            "S": "think we can handle it again . The key thing"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "824"
+          },
+          "start_time": {
+            "N": "818"
+          },
+          "text": {
+            "S": "is to do things step by step , so going"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "827"
+          },
+          "start_time": {
+            "N": "821"
+          },
+          "text": {
+            "S": "to want to scan this . Okay , what's my"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "828"
+          },
+          "start_time": {
+            "N": "824"
+          },
+          "text": {
+            "S": "parentheses ? Okay , I have a couple of sets"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "830"
+          },
+          "start_time": {
+            "N": "825"
+          },
+          "text": {
+            "S": "right here . So the rule is you do the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "834"
+          },
+          "start_time": {
+            "N": "827"
+          },
+          "text": {
+            "S": "innermost set of parentheses . So everything else just gets"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "837"
+          },
+          "start_time": {
+            "N": "831"
+          },
+          "text": {
+            "S": "written rewritten over again . So I'm gonna get negative"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "842"
+          },
+          "start_time": {
+            "N": "834"
+          },
+          "text": {
+            "S": "five plus 23 minus four times the quantity . Well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "845"
+          },
+          "start_time": {
+            "N": "839"
+          },
+          "text": {
+            "S": "seven minus six is one and everything else just stays"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "849"
+          },
+          "start_time": {
+            "N": "842"
+          },
+          "text": {
+            "S": "the same . Simplify this further . So I only"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "851"
+          },
+          "start_time": {
+            "N": "846"
+          },
+          "text": {
+            "S": "have one set of parentheses . So we do what's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "854"
+          },
+          "start_time": {
+            "N": "848"
+          },
+          "text": {
+            "S": "in the inside ? So you do what's on the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "857"
+          },
+          "start_time": {
+            "N": "851"
+          },
+          "text": {
+            "S": "inside ? What's the other presidents now ? Well I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "859"
+          },
+          "start_time": {
+            "N": "854"
+          },
+          "text": {
+            "S": "have something that's raised to an exponent so I need"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "862"
+          },
+          "start_time": {
+            "N": "856"
+          },
+          "text": {
+            "S": "to do the two squared . Everything else stays the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "867"
+          },
+          "start_time": {
+            "N": "859"
+          },
+          "text": {
+            "S": "same . So I get three minus four times one"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "872"
+          },
+          "start_time": {
+            "N": "864"
+          },
+          "text": {
+            "S": "plus two squared is four . Let's keep going ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "874"
+          },
+          "start_time": {
+            "N": "869"
+          },
+          "text": {
+            "S": "So again so linda in a group I mean this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "878"
+          },
+          "start_time": {
+            "N": "871"
+          },
+          "text": {
+            "S": "group of parentheses and there's a multiplication . Think of"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "882"
+          },
+          "start_time": {
+            "N": "875"
+          },
+          "text": {
+            "S": "this as -4 times one . So everything else stays"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "887"
+          },
+          "start_time": {
+            "N": "879"
+          },
+          "text": {
+            "S": "the same . So I'm gonna get three -4 times"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "893"
+          },
+          "start_time": {
+            "N": "884"
+          },
+          "text": {
+            "S": "one is -4 , write that down . Yeah And"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "896"
+          },
+          "start_time": {
+            "N": "890"
+          },
+          "text": {
+            "S": "I started to continue doing this so I have just"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "899"
+          },
+          "start_time": {
+            "N": "893"
+          },
+          "text": {
+            "S": "additions subtractions . So I take care of those and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "902"
+          },
+          "start_time": {
+            "N": "896"
+          },
+          "text": {
+            "S": "you go from left to right . 3 -4 is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "907"
+          },
+          "start_time": {
+            "N": "899"
+          },
+          "text": {
+            "S": "a negative one . So everything else stays the same"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "913"
+          },
+          "start_time": {
+            "N": "904"
+          },
+          "text": {
+            "S": ". So I get negative one . Now let's perform"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "920"
+          },
+          "start_time": {
+            "N": "910"
+          },
+          "text": {
+            "S": "this operation negative one plus four is three . Mhm"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "928"
+          },
+          "start_time": {
+            "N": "918"
+          },
+          "text": {
+            "S": ". Yeah . Now looking at this expression , I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "932"
+          },
+          "start_time": {
+            "N": "925"
+          },
+          "text": {
+            "S": "have uh negative five and it's being added to the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "936"
+          },
+          "start_time": {
+            "N": "929"
+          },
+          "text": {
+            "S": "quantity two times three . So order precedence here is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "938"
+          },
+          "start_time": {
+            "N": "933"
+          },
+          "text": {
+            "S": "I need to do multiplication before I do any additions"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "940"
+          },
+          "start_time": {
+            "N": "935"
+          },
+          "text": {
+            "S": "or subtractions . So two times three is done next"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "946"
+          },
+          "start_time": {
+            "N": "937"
+          },
+          "text": {
+            "S": ". So this is equal to negative five plus six"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "951"
+          },
+          "start_time": {
+            "N": "943"
+          },
+          "text": {
+            "S": "and finally barely squeeze that in their negative five plus"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "955"
+          },
+          "start_time": {
+            "N": "948"
+          },
+          "text": {
+            "S": "six is one and that is my final answer ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "973"
+          },
+          "start_time": {
+            "N": "963"
+          },
+          "text": {
+            "S": "Clear negative five Plus two . Open Parentheses , three"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "976"
+          },
+          "start_time": {
+            "N": "970"
+          },
+          "text": {
+            "S": "minus four . Open parentheses again . Seven minus six"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "979"
+          },
+          "start_time": {
+            "N": "973"
+          },
+          "text": {
+            "S": ". Close parentheses . Plus . To press the square"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "984"
+          },
+          "start_time": {
+            "N": "976"
+          },
+          "text": {
+            "S": "key . Close parentheses and finally enter and the answer"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "993"
+          },
+          "start_time": {
+            "N": "981"
+          },
+          "text": {
+            "S": "is well for example 14 . We haven't another expression"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "995"
+          },
+          "start_time": {
+            "N": "990"
+          },
+          "text": {
+            "S": ". We want to simplify to go through the steps"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "997"
+          },
+          "start_time": {
+            "N": "992"
+          },
+          "text": {
+            "S": "again . Uh I need to do the grouping symbols"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1000"
+          },
+          "start_time": {
+            "N": "994"
+          },
+          "text": {
+            "S": "first . In this case the absolute value are considered"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1002"
+          },
+          "start_time": {
+            "N": "997"
+          },
+          "text": {
+            "S": "our grouping symbols . We need to do everything inside"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1005"
+          },
+          "start_time": {
+            "N": "999"
+          },
+          "text": {
+            "S": "the absolute values First . Within here I have a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1008"
+          },
+          "start_time": {
+            "N": "1002"
+          },
+          "text": {
+            "S": "subtraction of applications so according to this implications have high"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1012"
+          },
+          "start_time": {
+            "N": "1005"
+          },
+          "text": {
+            "S": "order precedence . They're done beforehand . Everything else ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1014"
+          },
+          "start_time": {
+            "N": "1009"
+          },
+          "text": {
+            "S": "I'm just gonna write it over again . So it's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1017"
+          },
+          "start_time": {
+            "N": "1011"
+          },
+          "text": {
+            "S": "two cubed minus the actual value of the quantity ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1023"
+          },
+          "start_time": {
+            "N": "1014"
+          },
+          "text": {
+            "S": "five minus two times eight is 16 . And then"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1026"
+          },
+          "start_time": {
+            "N": "1020"
+          },
+          "text": {
+            "S": "close the absolute value symbols . Uh we saw the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1030"
+          },
+          "start_time": {
+            "N": "1023"
+          },
+          "text": {
+            "S": "grouping symbols so we have to evaluate 5 -16 and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1033"
+          },
+          "start_time": {
+            "N": "1027"
+          },
+          "text": {
+            "S": "everything else stays the same . So you're gonna get"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1038"
+          },
+          "start_time": {
+            "N": "1031"
+          },
+          "text": {
+            "S": "negative 11 . Now they're still within grouping symbols ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1040"
+          },
+          "start_time": {
+            "N": "1035"
+          },
+          "text": {
+            "S": "We still have to value this part again . This"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1042"
+          },
+          "start_time": {
+            "N": "1037"
+          },
+          "text": {
+            "S": "part stays the same , right ? That over again"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1048"
+          },
+          "start_time": {
+            "N": "1041"
+          },
+          "text": {
+            "S": ", Absolute value of -11 is 11 . So now"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1049"
+          },
+          "start_time": {
+            "N": "1045"
+          },
+          "text": {
+            "S": "I write down 11 . So you need to be"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1052"
+          },
+          "start_time": {
+            "N": "1046"
+          },
+          "text": {
+            "S": "careful you have to first copy this part down so"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1055"
+          },
+          "start_time": {
+            "N": "1049"
+          },
+          "text": {
+            "S": "the negative stays and then I'm valuing this part ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1059"
+          },
+          "start_time": {
+            "N": "1052"
+          },
+          "text": {
+            "S": "So now that gives you the positive 11 people make"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1061"
+          },
+          "start_time": {
+            "N": "1056"
+          },
+          "text": {
+            "S": "a mistake and make that a plus 11 . Don't"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1064"
+          },
+          "start_time": {
+            "N": "1058"
+          },
+          "text": {
+            "S": "go there . Then according to this I have to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1073"
+          },
+          "start_time": {
+            "N": "1061"
+          },
+          "text": {
+            "S": "do the exponents to cube is eight And finally 8"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1078"
+          },
+          "start_time": {
+            "N": "1070"
+          },
+          "text": {
+            "S": "-11 is -3 . Mhm . There's a final answer"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1092"
+          },
+          "start_time": {
+            "N": "1080"
+          },
+          "text": {
+            "S": ". Simplify clear . Mhm Two power three minus ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1095"
+          },
+          "start_time": {
+            "N": "1090"
+          },
+          "text": {
+            "S": "I want the absolute value . So I press the"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1102"
+          },
+          "start_time": {
+            "N": "1092"
+          },
+          "text": {
+            "S": "second function key and then I want catalog . Once"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1104"
+          },
+          "start_time": {
+            "N": "1099"
+          },
+          "text": {
+            "S": "you press enter , that gives you the absolute value"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1110"
+          },
+          "start_time": {
+            "N": "1102"
+          },
+          "text": {
+            "S": ". I'll continue the expression five -2 times eight close"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1114"
+          },
+          "start_time": {
+            "N": "1107"
+          },
+          "text": {
+            "S": "parentheses and enter . And her answer is -3 ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1128"
+          },
+          "start_time": {
+            "N": "1121"
+          },
+          "text": {
+            "S": "For the last example we're given a fraction . And"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1132"
+          },
+          "start_time": {
+            "N": "1125"
+          },
+          "text": {
+            "S": "the basic strategy for doing a fraction is as follows"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1134"
+          },
+          "start_time": {
+            "N": "1129"
+          },
+          "text": {
+            "S": ". You want to try to evaluate the entire numerator"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1138"
+          },
+          "start_time": {
+            "N": "1132"
+          },
+          "text": {
+            "S": ", then you try to value the entire denominator and"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1143"
+          },
+          "start_time": {
+            "N": "1135"
+          },
+          "text": {
+            "S": "then divide numerator by the denominator and I go through"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1145"
+          },
+          "start_time": {
+            "N": "1140"
+          },
+          "text": {
+            "S": "that in meticulous steps in the notes . But for"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1147"
+          },
+          "start_time": {
+            "N": "1142"
+          },
+          "text": {
+            "S": "the video , what I'm gonna do is actually show"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1151"
+          },
+          "start_time": {
+            "N": "1144"
+          },
+          "text": {
+            "S": "you an alternate procedure . What you wanna do is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1154"
+          },
+          "start_time": {
+            "N": "1148"
+          },
+          "text": {
+            "S": "if you can try to simplify things tops and bottoms"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1157"
+          },
+          "start_time": {
+            "N": "1151"
+          },
+          "text": {
+            "S": "at the same time to minimize your writing again ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1159"
+          },
+          "start_time": {
+            "N": "1154"
+          },
+          "text": {
+            "S": "If that doesn't feel right , then do what I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1162"
+          },
+          "start_time": {
+            "N": "1156"
+          },
+          "text": {
+            "S": "just said . The entire numerator , get a value"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1164"
+          },
+          "start_time": {
+            "N": "1159"
+          },
+          "text": {
+            "S": ", entire denominator , Get a value and then divide"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1166"
+          },
+          "start_time": {
+            "N": "1161"
+          },
+          "text": {
+            "S": "the two . But we'll do it the faster way"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1168"
+          },
+          "start_time": {
+            "N": "1163"
+          },
+          "text": {
+            "S": ". Let's go and take care of that . Right"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1169"
+          },
+          "start_time": {
+            "N": "1165"
+          },
+          "text": {
+            "S": "now . It's going to start with this problem ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1174"
+          },
+          "start_time": {
+            "N": "1168"
+          },
+          "text": {
+            "S": "So trying to simplify the numerator . Following pandas is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1177"
+          },
+          "start_time": {
+            "N": "1171"
+          },
+          "text": {
+            "S": "I don't have grouping symbols but I have exponents ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1186"
+          },
+          "start_time": {
+            "N": "1174"
+          },
+          "text": {
+            "S": "So five squared is 25 minus three cubed is three"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1192"
+          },
+          "start_time": {
+            "N": "1183"
+          },
+          "text": {
+            "S": "times three times 3 27 . And then the four"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1195"
+          },
+          "start_time": {
+            "N": "1189"
+          },
+          "text": {
+            "S": "just stays all by its lonesome . All right ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1198"
+          },
+          "start_time": {
+            "N": "1192"
+          },
+          "text": {
+            "S": "The denominator , I would do grouping symbols first ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1203"
+          },
+          "start_time": {
+            "N": "1195"
+          },
+          "text": {
+            "S": "Everything else stays the same . Was eight minus 5"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1206"
+          },
+          "start_time": {
+            "N": "1200"
+          },
+          "text": {
+            "S": "-3 is two and it's being squared . Mhm ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1213"
+          },
+          "start_time": {
+            "N": "1204"
+          },
+          "text": {
+            "S": "Let's keep going . Yeah . On the top we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1215"
+          },
+          "start_time": {
+            "N": "1210"
+          },
+          "text": {
+            "S": "only have additions and subtractions . So you go from"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1220"
+          },
+          "start_time": {
+            "N": "1212"
+          },
+          "text": {
+            "S": "order from left to right . So 25 -27 is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1222"
+          },
+          "start_time": {
+            "N": "1217"
+          },
+          "text": {
+            "S": "negative two and the Forest Day is the same ."
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1225"
+          },
+          "start_time": {
+            "N": "1220"
+          },
+          "text": {
+            "S": "And the denominator or precedents , I have to do"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1230"
+          },
+          "start_time": {
+            "N": "1222"
+          },
+          "text": {
+            "S": "the exponents . Next it's gonna be eight minus mhm"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1234"
+          },
+          "start_time": {
+            "N": "1228"
+          },
+          "text": {
+            "S": ". Four and it's getting really simple here . Let's"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1239"
+          },
+          "start_time": {
+            "N": "1231"
+          },
+          "text": {
+            "S": "just keep going here . Native to Plus four is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1245"
+          },
+          "start_time": {
+            "N": "1236"
+          },
+          "text": {
+            "S": "too eight minus four is four . And finally we"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1250"
+          },
+          "start_time": {
+            "N": "1242"
+          },
+          "text": {
+            "S": "can reduce this fraction To divide by four is a"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1259"
+          },
+          "start_time": {
+            "N": "1247"
+          },
+          "text": {
+            "S": "half . And we're done . You want to simplify"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1261"
+          },
+          "start_time": {
+            "N": "1256"
+          },
+          "text": {
+            "S": "this expression ? Your first step is to change it"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1265"
+          },
+          "start_time": {
+            "N": "1258"
+          },
+          "text": {
+            "S": "into this one . Be sure to encompass the entire"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1269"
+          },
+          "start_time": {
+            "N": "1262"
+          },
+          "text": {
+            "S": "numerator within a set of parentheses and the entire denominator"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1272"
+          },
+          "start_time": {
+            "N": "1266"
+          },
+          "text": {
+            "S": "within an extra set of parentheses . Now let's put"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1275"
+          },
+          "start_time": {
+            "N": "1269"
+          },
+          "text": {
+            "S": "this in the calculator clear let's put the top part"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1283"
+          },
+          "start_time": {
+            "N": "1272"
+          },
+          "text": {
+            "S": "first open parentheses five square minus three power three plus"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1287"
+          },
+          "start_time": {
+            "N": "1280"
+          },
+          "text": {
+            "S": "four . Close parentheses Now let's divide that . Press"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1290"
+          },
+          "start_time": {
+            "N": "1284"
+          },
+          "text": {
+            "S": "the division key . Let's input the denominator . Open"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1298"
+          },
+          "start_time": {
+            "N": "1287"
+          },
+          "text": {
+            "S": "parentheses 8 - Open parentheses again 5 -3 . Close"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1305"
+          },
+          "start_time": {
+            "N": "1295"
+          },
+          "text": {
+            "S": "parentheses and square it close parentheses . And enter The"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1307"
+          },
+          "start_time": {
+            "N": "1302"
+          },
+          "text": {
+            "S": "answer is .5 . And to make it official ,"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1310"
+          },
+          "start_time": {
+            "N": "1304"
+          },
+          "text": {
+            "S": "let's just convert this into a fraction , suppress your"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "1314"
+          },
+          "start_time": {
+            "N": "1307"
+          },
+          "text": {
+            "S": "math key and then enter enter again there's your hat"
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197531/256.jpg"
+          },
+          "summary": {
+            "S": "Well theres a little bit of a problem with this because should we put the two and the three together?\nOkay, next, I m gon na do is I m gon na say five minus this whole thing.\nSo now I want to have six and I want to add that to this entire problem right here.\n"
+          },
+          "time": {
+            "S": "256"
+          },
+          "Title": {
+            "S": "Order of operation"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197531/519.jpg"
+          },
+          "summary": {
+            "S": "Traditionally we use parentheses and then if we have parentheses and we need to use other group examples, then we throw in the brackets.\nAnd then finally I go with another set of brackets and see this one.\nBut you do nt have to do that.\n"
+          },
+          "time": {
+            "S": "519"
+          },
+          "Title": {
+            "S": "Grouping symbols"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197531/782.jpg"
+          },
+          "summary": {
+            "S": "So its just whichever it goes from left to right on the left is done first and then so on the right and the lowest order of precedence is addition.\nSo I m gon na do that first.\nSo parentheses not only grouping symbols, so exponents right here.\n"
+          },
+          "time": {
+            "S": "782"
+          },
+          "Title": {
+            "S": "Example 12"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197531/1041.jpg"
+          },
+          "summary": {
+            "S": "So I get three minus four times one plus two squared is four.\nSo everything else stays the same.\nSo I m gon na get negative five plus 23 minus four times the quantity.\nWell seven minus six is one and everything else just stays the same.\n"
+          },
+          "time": {
+            "S": "1041"
+          },
+          "Title": {
+            "S": "Example 14"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197531/1304.jpg"
+          },
+          "summary": {
+            "S": "Then according to this I have to do the exponents to cube is eight And finally 8 -11 is -3.\nClose parentheses Now lets divide that.\nYou want to try to evaluate the entire numerator, then you try to value the entire denominator and then divide numerator by the denominator and I go through that in meticulous steps in the notes.\n"
+          },
+          "time": {
+            "S": "1304"
+          },
+          "Title": {
+            "S": "Example on the calculator"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "VideoID": {
+    "S": "VID_3197407"
+  },
+  "Items": {
+    "L": [
+      {
+        "M": {
+          "end_time": {
+            "N": "9"
+          },
+          "start_time": {
+            "N": "2"
+          },
+          "text": {
+            "S": "A number is equal to another number if they have"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "13"
+          },
+          "start_time": {
+            "N": "6"
+          },
+          "text": {
+            "S": "the same position on a number line . So this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "14"
+          },
+          "start_time": {
+            "N": "10"
+          },
+          "text": {
+            "S": "is four and I'm saying , OK , well this"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "18"
+          },
+          "start_time": {
+            "N": "11"
+          },
+          "text": {
+            "S": ", this is for right here and this is equal"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "21"
+          },
+          "start_time": {
+            "N": "15"
+          },
+          "text": {
+            "S": "to it . So hey is right there A is"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "23"
+          },
+          "start_time": {
+            "N": "18"
+          },
+          "text": {
+            "S": "four and I can say , well , here comes"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "26"
+          },
+          "start_time": {
+            "N": "20"
+          },
+          "text": {
+            "S": "along be I don't say we'll be is going to"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "32"
+          },
+          "start_time": {
+            "N": "23"
+          },
+          "text": {
+            "S": "be the same value at that same point . Well"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "33"
+          },
+          "start_time": {
+            "N": "29"
+          },
+          "text": {
+            "S": ", can we say about that ? Well , I"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "40"
+          },
+          "start_time": {
+            "N": "30"
+          },
+          "text": {
+            "S": "can say A is equal to be and that's all"
+          }
+        }
+      },
+      {
+        "M": {
+          "end_time": {
+            "N": "42"
+          },
+          "start_time": {
+            "N": "37"
+          },
+          "text": {
+            "S": "what equalities are all about ?"
+          }
+        }
+      }
+    ]
+  },
+  "Transcribe_Text": {
+    "S": "NA"
+  },
+  "videotocdata": {
+    "L": [
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197407/2.jpg"
+          },
+          "summary": {
+            "S": "N"
+          },
+          "time": {
+            "S": "2"
+          },
+          "Title": {
+            "S": "Number line"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197407/11.jpg"
+          },
+          "summary": {
+            "S": " the same position on a number line.\n"
+          },
+          "time": {
+            "S": "11"
+          },
+          "Title": {
+            "S": "A=4"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197407/20.jpg"
+          },
+          "summary": {
+            "S": " to it.\n"
+          },
+          "time": {
+            "S": "20"
+          },
+          "Title": {
+            "S": "Example"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197407/23.jpg"
+          },
+          "summary": {
+            "S": "Cant generate summary"
+          },
+          "time": {
+            "S": "23"
+          },
+          "Title": {
+            "S": "Example"
+          }
+        }
+      },
+      {
+        "M": {
+          "image": {
+            "S": "https://s3.amazonaws.com/flashcube-images.lumoslearning.com/video-thumbnails/3197407/30.jpg"
+          },
+          "summary": {
+            "S": ", can we say about that?\n"
+          },
+          "time": {
+            "S": "30"
+          },
+          "Title": {
+            "S": "B"
+          }
+        }
+      }
+    ]
+  }
+}
