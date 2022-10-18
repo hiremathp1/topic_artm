@@ -116,7 +116,7 @@ def wordcloud(
 )
 @click.option("-l", "--limit", default=10, help="limit the number of topics to display")
 @checkinput_file
-def topics(method: str = "anygram", ngram_size: int = 2, limit: int = 20):
+def topics(input, method: str = "anygram", ngram_size: int = 2, limit: int = 20):
     # Check if input exists and is a file
     if not Path(input).is_file():
         raise click.ClickException(f"Input file {input} does not exist")
