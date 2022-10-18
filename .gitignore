@@ -14,5 +14,5 @@ model5.gensim.state
 vendor/
 venv*
 
-cache.*
+./cache.*
 *.png
