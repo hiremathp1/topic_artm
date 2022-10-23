@@ -1,5 +1,5 @@
 # Model for topic extraction from text
-# Author: Matheus Fillipe
+# Author: Praveen Hiremath
 # Date: 2022-31-07
 #
 # This model will preprocess the text and then apply a counter vectorizer for counting the number of times a token appears in a document. The tokens are ngrams. This way, for example, if a word appears alone it is counted separately from when it occurs in bigrams.
@@ -53,7 +53,7 @@ def filter_low(points: [int]):
         std2 = np.std(rest)
         if std1 < std2:
             return [clusters[0], rest]
-    return points
+    return [[], points]
 
 
 def ngram_contains(children_ngram: str, partent_ngram: str) -> bool:
