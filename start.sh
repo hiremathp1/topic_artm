@@ -16,7 +16,7 @@ fi
 source venv/bin/activate
 
 # Starts uvicorn debug dev server
-# uvicorn main:app --host 0.0.0.0 --port 8000 --reload --reload-exclude "venv*" --log-level "debug"
+# uvicorn main:app --host 0.0.0.0 --port 8080 --reload --reload-exclude "venv*" --log-level "debug"
 
 # Starts gunicor deployment server
-./venv/bin/gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker -b 127.0.0.1:8000 --log-level "debug" --graceful-timeout 4800 --timeout 7200
+./venv/bin/gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker -b 127.0.0.1:8080 --log-level "debug" --graceful-timeout 4800 --timeout 7200
