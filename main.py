@@ -224,7 +224,7 @@ async def graph_image(
         - **network**: Network graph. Default
         - **tree**: Tree graph
 
-    - **full**: If true, will return the full graph without supressing inprobable topics
+    - **full**: If true, will return the full graph without supressing unlikely (low ammount of connections) topics
     - **provider**: The document provider atlas for corpus expansion.
     """
     body = await get_json(request)
@@ -262,7 +262,7 @@ async def graph(
 
     - **ngram_size**: size of ngrams to use (only for ngram method)
     - **limit**: Max of topics to display. Defaults to 10
-    - **full**: If true, will return the full graph without supressing inprobable topics
+    - **full**: If true, will return the full graph without supressing unlikely (low ammount of connections) topics
     - **provider**: The document provider atlas for corpus expansion.
     """
     body = await get_json(request)
@@ -364,7 +364,7 @@ async def command_graph_image(
         - **network**: Network graph. Default
         - **tree**: Tree graph
 
-    - **full**: If true, will return the full graph without supressing inprobable topics
+    - **full**: If true, will return the full graph without supressing unlikely (low ammount of connections) topics
     - **provider**: The document provider atlas for corpus expansion.
     """
     global commands
@@ -416,7 +416,7 @@ async def command_graph(
 
     - **ngram_size**: size of ngrams to use (only for ngram method)
     - **limit**: Max of topics to display. Defaults to 10
-    - **full**: If true, will return the full graph without supressing inprobable topics
+    - **full**: If true, will return the full graph without supressing unlikely (low ammount of connections) topics
     - **provider**: The document provider atlas for corpus expansion.
     """
     global commands
